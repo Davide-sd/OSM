@@ -1,0 +1,1095 @@
+SUBSTITUTIONS LOG
+	Number of highways with tag 'name': 3497
+		Number of substitutions of the 'name': 1071
+		Number of deletions of the 'name': 11
+	Number of highways with tag 'addr:street': 3
+		Number of substitutions of the 'addr:street': 0
+		Number of deletions of the 'addr:street': 0
+
+SUBTITUTIONS LIST
+WAY_ID;ADDR:STREET_old;ADDR:STREET_new;NAME_old;NAME_new
+22760362;;;Strada Padana Verso Verona;Strada Padana verso Verona
+23161201;;;Strada Monte Crocetta;Strada del Monte Crocetta
+23366375;;;Via A. Turra;Via Antonio Turra
+23374257;;;Via G. Samonà;Via Giuseppe Samonà
+23381498;;;Via E. Zamboni Segato;Via Elisa Zamboni Segato
+23381505;;;Via G. Bedin;Via Giacomo Bedin
+23381967;;;Via P. M. Zaguri;Via Pietro Marco Zaguri
+23382932;;;Via Nervi;Via Pierluigi Nervi
+23382946;;;Vicolo C. Mollino;Via Carlo Mollino
+23382956;;;Via C. Mollino;Via Carlo Mollino
+23382971;;;Via O. M. Pagani;Via Orazio Maria Pagani
+23383001;;;Via Nievo Giambattista;Via Giambattista Nievo
+23384634;;;Via B. Galizzi;Via Benedetto Galizzi
+23384675;;;Via A. Sant'Elia;Via Antonio Sant'Elia
+23394377;;;Via R. Pasi;Via Raffaele Pasi
+23394457;;;Via P. Porto Godi;Via Paolina Porto Godi
+23394462;;;Via F. Novello;Via Francesco Novello
+23394469;;;Via Tortosa Giuseppe;Via Giuseppe Tortosa
+23394478;;;Via G. Rezzara;Via Gaetano Rezzara
+23397667;;;Via A. Sandri;Via Antonio Sandri
+23397795;;;Via San L. Murialdo;Via San Leonardo Murialdo
+23397800;;;Via F. Nado;Via Francesco Nado
+23397812;;;Strada scuole dell'Anconetta;Strada Scuole dell'Anconetta
+23397837;;;Via C. Bonioli;Via Camillo Bonioli
+23397841;;;Via F. Vigna;Via Francesco Vigna
+23397847;;;Via G. B. Mugna;Via Giovanni Battista Mugna
+23397904;;;Via F. Beggiato;Via Francesco Beggiato
+23397908;;;Via G. Toffoletto;Via Giuseppe Toffoletto
+23397959;;;Via M. Fogolino;Via Marcello Fogolino
+23397990;;;Via A. Massaria;Via Alessandro Massaria
+23397997;;;Via Chiminelli Luigi;Via Luigi Chiminelli
+23398638;;;Via Imperiali Giovanni Battista;Via Giovanni Battista Imperiali
+23398666;;;Via C. Borella;Via Carlo Borella
+23400930;;;Viale Fusinieri Ambrogio;Viale Ambrogio Fusinieri
+23401002;;;Via G. Visona';Via Gino Visonà
+23401153;;;Via D. Cerato;Via Domenico Cerato
+23401209;;;Via G. E. Di Velo;Via Gerolamo Egidio di Velo
+23401234;;;Viale Cimitero;Viale del Cimitero
+23410171;;;Via Giovan Battista Quadri;Via Giovanni Battista Quadri
+23410332;;;Via IV Novembre;Via Quattro Novembre
+23410384;;;Via Generale Giacomo Medici;Via Giacomo Medici
+23411104;;;Contrà Mure San Rocco;Contra' Mure San Rocco
+23432127;;;Via Ponte del Marchese;Strada Ponte del Marchese
+23433377;;;Viale 10 Giugno;Viale Dieci Giugno
+23441148;;;Via C. Marocco;Via Cesare Marocco
+23441207;;;Via G. Carpioni;Via Giulio Carpioni
+23443603;;;Via G. Verazzano;Via Giovanni Verrazano
+23454466;;;Strada Lobia;Strada di Lobia
+23472424;;;Via Ponte del Marchese;Strada Ponte del Marchese
+23472435;;;Via Ponte del Marchese;Strada Ponte del Marchese
+23472437;;;Via Ponte del Marchese;Strada Ponte del Marchese
+23472529;;;Via Guglielmo Pecori Giraldi;Viale Guglielmo Pecori Giraldi
+23472793;;;Via G. Ghellini;Via Gellio Ghellini
+23472798;;;Via L. Q. Rubini;Via Lucia Quinto Rubini
+23472832;;;Via F. Novello;Via Francesco Novello
+23500216;;;Viale Bartolomeo D'Alviano;Viale Bartolomeo d'Alviano
+23500230;;;Viale Bartolomeo D'Alviano;Viale Bartolomeo d'Alviano
+23542013;;;Via G. Gagliardotti;Via Giuseppe Gagliardotti
+23544140;;;Strada Costabissara;Strada di Costabissara
+23544141;;;Strada Costabissara;Strada di Costabissara
+23544142;;;Strada Costabissara;Strada di Costabissara
+23553180;;;Via Cresolella;Strada della Cresolella
+23576358;;;Via G. G. Cappellari;Via Giovanni Giuseppe Cappellari
+23576365;;;Via G. Pagliarino;Via Giambattista Pagliarino
+23576618;;;Largo Wolfgang Goethe;Largo Volfango Goethe
+23576868;;;Contrà Pusterla;Contra' Pusterla
+23601348;;;Strada Padana Verso Verona;Strada Padana verso Verona
+23601698;;;Viale dello Stadio;Via dello Stadio
+23617994;;;Via P. Alpino;Via Prospero Alpino
+23622889;;;Corso Palladio;Corso Andrea Palladio
+23622895;;;Contrà Porti;Contra' Porti
+23622981;;;Contra' Canove Vecchie;Contra' delle Canove Vecchie
+23623284;;;Contrà Pedemuro San Biagio;Contra' Pedemuro San Biagio
+23627437;;;Via Baden Powell;Via Robert Baden Powell
+23628026;;;Contrà San Francesco;Contra' San Francesco
+23713883;;;Via A. Sant'Elia;Via Antonio Sant'Elia
+23751757;;;Via Don D. Lora;Via don Domenico Lora
+23751760;;;Via A. Crosara;Via Adolfo Crosara
+23751767;;;Via A. Codamosto;Via Alvise Cadamosto
+23751769;;;Via G. Mainardi;Via Giorgio Mainardi
+23751770;;;Via G. Vajenti;Via Giampaolo Vajenti
+23754784;;;Contrà San Francesco;Contra' San Francesco
+23759151;;;Via G. Malacarne;Via Giambattista Malacarne
+23759155;;;Via G. Mainardi;Via Giorgio Mainardi
+23759238;;;Via F.lli Caldonazzo;Via Fratelli Caldonazzo
+23759349;;;Via O. Garzadori;Via Ottaviano Garzadori
+23759350;;;Via S. Trevisan;Via Sebastiano Trevisan
+23759367;;;Via G. Plona;Via Girolamo Plona
+23759404;;;Via L. Cordellina;Via Lodovico Cordellina
+23800761;;;Via B. Ricasoli;Via Bettino Ricasoli
+23800763;;;Via Frédéric Antoine Ozanam;Via Antonio Federico Ozanam
+23800765;;;Via Btg. Vicenza;Via Battaglione Vicenza
+23859417;;;Via Quintino Sella;Viale Quintino Sella
+23878407;;;Strada Beregane;Strada delle Beregane
+23878411;;;Strada Beregane;Strada delle Beregane
+23878413;;;Strada Beregane;Strada delle Beregane
+23924612;;;Via C. Scarpa;Via Carlo Scarpa
+24008738;;;Via Francesco Gucciardini;Via Francesco Guicciardini
+24008756;;;Via Nicolò Tommaseo;Via Niccolò Tommaseo
+24008760;;;Via Nicolò Tommaseo;Via Niccolò Tommaseo
+24010674;;;Via Nicolò Machiavelli;Via Niccolò Machiavelli
+24019149;;;Pista Ciclabile Riviera Berica "R. Casarotto";Pista Ciclabile Renato Casarotto
+24216515;;;Via De Ferretti;Via Ferreto de Ferreti
+24317175;;;Stradella Forti in corso Padova;Stradella Forti in Corso Padova
+24317176;;;Via Alberi Eugenio;Via Eugenio Alberi
+24361976;;;Via Lanza;Via Giovanni Lanza
+24431072;;;Strada Maddalene;Strada delle Maddalene
+24435246;;;Piazzetta mons. Giuseppe Lorenzon;Piazzetta monsignor Giuseppe Lorenzon
+24435258;;;Piazzetta mons. Giuseppe Lorenzon;Piazzetta monsignor Giuseppe Lorenzon
+24435357;;;Via Btg. Morbegno;Via Battaglione Morbegno
+24435380;;;Via Btg. Sette Comuni;Via Battaglione Sette Comuni
+24503274;;;Via Alfonso La Marmora;Via Alfonso Lamarmora
+24503275;;;Via Alfonso La Marmora;Via Alfonso Lamarmora
+24521090;;;Via Tommaso Albinoni;Via Tomaso Albinoni
+24521092;;;Via Tommaso Albinoni;Via Tomaso Albinoni
+24521094;;;Via Tommaso Albinoni;Via Tomaso Albinoni
+24532607;;;Via Mario Alberto;Via Alberto Mario
+24532666;;;Via 24 Maggio;Via Ventiquattro Maggio
+24558541;;;Via F.lli Stuparich;Via Fratelli Stuparich
+24558557;;;Via G. Zardo;Via Giuseppe Zardo
+24558572;;;Via F. Berardi;Via Francesco Berardi
+24558585;;;Via A. Samoggia;Via Alfonso Samoggia
+24558635;;;Via G. Giardino;Via Gaetano Giardino
+24558660;;;Via E. Caviglia;Via Enrico Caviglia
+24558740;;;Via E. Tazzoli;Via Enrico Tazzoli
+24558771;;;Via P. Scarcerle;Via Pietro Scalcerle
+24559064;;;Via G. Costantini;Via Gaetano Costantini
+24559067;;;Via G. Costantini;Via Gaetano Costantini
+24559097;;;Via A. Turcato;Via Antonio Turcato
+24584333;;;Via A,. Teso;Via Antonio Teso
+24584360;;;Via D. Piccoli;Via Domenico Piccoli
+24820248;;;Via Giovanni Caboto;Via Sebastiano Caboto
+24820250;;;Via M. Polo;Via Marco Polo
+24820251;;;Via M. Polo;Via Marco Polo
+24820252;;;Via G. Verazzano;Via Giovanni Verrazano
+24820253;;;Via G. Verazzano;Via Giovanni Verrazano
+24820255;;;Via G. Verazzano;Via Giovanni Verrazano
+24820256;;;Strada Beregane;Strada delle Beregane
+25170293;;;Via D. Chiesa;Via Damiano Chiesa
+25170297;;;Via F. Corridoni;Via Filippo Corridoni
+25170298;;;Via L. F. Marchetti;Via Luigi Federico Marchetti
+25170301;;;Via F. Corridoni;Via Filippo Corridoni
+25170303;;;Via A. Gregori;Via Alfredo Gregori
+25170306;;;Via R. Boschiero;Via Riccardo Boschiero
+25180895;;;Viale dello Stadio;Via dello Stadio
+25300944;;;Via G. Fincato;Via Giovanni Fincato
+25361625;;;Via B. Viola;Via Bruno Viola
+25361647;;;Via G. Chilesotti;Via Giacomo Chilesotti
+25361661;;;Via L. Cappello;Via Luigi Cappello
+25361677;;;Via F. Costalunga;Via Fiorenzo Costalunga
+25368962;;;Via G. Costantini;Via Gaetano Costantini
+25368988;;;Via Masini;Via Angelo Masini
+25369327;;;Via Quintino Sella;Viale Quintino Sella
+25369384;;;Via G. Zanellato;Via Giacomo Zanellato
+25749804;;;Via G. Perrucchetti;Via Giuseppe Perrucchetti
+25749936;;;Via P. Thaon di Revel;Via Paolo Thaon di Revel
+25749944;;;Via L. Rizzo;Via Luigi Rizzo
+25749969;;;Via P. Thaon di Revel;Via Paolo Thaon di Revel
+25948788;;;Via Giovan Battista Quadri;Via Giovanni Battista Quadri
+26167895;;;Via G. Festari;Via Girolamo Festari
+26168059;;;Via Baden Powell;Via Robert Baden Powell
+26318643;;;Via O. Calderari;Via Ottone Calderari
+26318691;;;Contrà Nervesa della Battaglia;Contra' Nervesa della Battaglia
+26318694;;;Contrà Piave;Contra' Piave
+26318712;;;Contrà Montello;Contra' Montello
+26318715;;;Contrà Isonzo;Contra' Isonzo
+26318719;;;Contrà Pusterla;Contra' Pusterla
+26318725;;;Via Generale Giacomo Medici;Via Giacomo Medici
+26756638;;;Strada Costabissara;Strada di Costabissara
+27697615;;;Contrà do Rode;Contra' Do Rode
+28012065;;;Via Gioberti;Via Vincenzo Gioberti
+28012068;;;Via C. Cantù;Via Cesare Cantù
+28012069;;;Via G. Giacosa;Via Giuseppe Giacosa
+28012071;;;Via N. Palli;Via Natale Palli
+28012072;;;Via A. Ferrarin;Viale Arturo Ferrarin
+28012073;;;Via O. Salomone;Via Oreste Salomone
+28012074;;;Via R. Sartori;Via Romeo Sartori
+28061660;;;Via G. Salvemini;Via Gaetano Salvemini
+28061666;;;Via F. Rosselli;Via Fratelli Rosselli
+28061667;;;Via F. Rosselli;Via Fratelli Rosselli
+28061671;;;Via Bonomi Ivanoe;Via Ivanoe Bonomi
+28809559;;;Via Ponte del Marchese;Strada Ponte del Marchese
+28809563;;;Via Ponte del Marchese;Strada Ponte del Marchese
+28810102;;;Via Vicenzo Monti;Via Vincenzo Monti
+28810107;;;Via G. Allegri;Via Gino Allegri
+29199449;;;Viale dell'Oreficeria;Via dell'Oreficeria
+29255278;;;Via Siderugia;Viale della Siderurgia
+29379390;;;Viale dell'Oreficeria;Via dell'Oreficeria
+29379392;;;Viale dell'Oreficeria;Via dell'Oreficeria
+29379393;;;Via Siderugia;Viale della Siderurgia
+29379395;;;Via Siderugia;Viale della Siderurgia
+29913208;;;Contrà del Quartiere;Contra' del Quartiere
+29913298;;;Piazza del Mutilato;Piazzale del Mutilato
+29913341;;;Contrà Mure della Rocchetta;Contra' Mure della Rocchetta
+29913515;;;Contrà Lodi;Contra' Lodi
+29913567;;;Stradella del Soccorso Soccorsetto;Stradella Soccorso Soccorsetto
+30015398;;;Contrà Mura Porta Castello;Contra' Mure Porta Castello
+30015474;;;Contrà Ponte delle Bele;Contra' Ponte delle Bele
+30144579;;;Via Francesco de Sanctis;Via Francesco De Sanctis
+30161822;;;Via Vecchia Ferriera;Via vecchia Ferriera
+30161845;;;Strada Carpaneda;Strada della Carpaneda
+30162675;;;Via De Nicola Enrico;Via Enrico De Nicola
+30179246;;;Via Generale Giacomo Medici;Via Giacomo Medici
+30336243;;;Corso Palladio;Corso Andrea Palladio
+30336248;;;Levà degli Angeli;Leva' degli Angeli
+30441896;;;Via Ponte del Marchese;Strada Ponte del Marchese
+30441899;;;Via Ponte del Marchese;Strada Ponte del Marchese
+30662787;;;Strada Carpaneda;Strada della Carpaneda
+30710519;;;Strada Acquedotto Romano;Strada dell'Acquedotto Romano
+30797250;;;Via Cresolella;Strada della Cresolella
+34099130;;;Via Umberto Pototschnig;Via Giorgio Pototschnig
+35139193;;;Via Mantovani Ferdinando Maria;Via Ferdinando Maria Mantovani
+35154337;;;Via delle Due ferrate;Via delle Due Ferrate
+35154338;;;Via delle Due ferrate;Via delle Due Ferrate
+35154339;;;Via delle Due ferrate;Via delle Due Ferrate
+35154371;;;Via Vigolo Antonio;Via Antonio Vigolo
+35154372;;;Via Vigolo Antonio;Via Antonio Vigolo
+35154373;;;Via Vigolo Antonio;Via Antonio Vigolo
+35154374;;;Via Vigolo Antonio;Via Antonio Vigolo
+35154375;;;Via Vigolo Antonio;Via Antonio Vigolo
+35154376;;;Via Vigolo Antonio;Via Antonio Vigolo
+35154377;;;Via Vigolo Antonio;Via Antonio Vigolo
+35154378;;;Via Vigolo Antonio;Via Antonio Vigolo
+35154379;;;Via Vigolo Antonio;Via Antonio Vigolo
+35157384;;;Viale 10 Giugno;Viale Dieci Giugno
+35157385;;;Viale 10 Giugno;Viale Dieci Giugno
+35157387;;;Viale 10 Giugno;Viale Dieci Giugno
+35157645;;;Via Brandellero Bruno;Via Bruno Brandellero
+35157646;;;Via Zaltron Francesco;Via Francesco Zaltron
+35157647;;;Via Arnaldi Rinaldo;Via Rinaldo Arnaldi
+35311022;;;Via Amendola Giovanni;Via Giovanni Amendola
+35311023;;;Via Sturzo Luigi;Via Luigi Sturzo
+35311025;;;Via Orlando Vittorio Emanuele;Via Vittorio Emanuele Orlando
+35311028;;;Via Orlando Vittorio Emanuele;Via Vittorio Emanuele Orlando
+35311029;;;Via Orlando Vittorio Emanuele;Via Vittorio Emanuele Orlando
+35311030;;;Via Orlando Vittorio Emanuele;Via Vittorio Emanuele Orlando
+35311031;;;Via Orlando Vittorio Emanuele;Via Vittorio Emanuele Orlando
+35311032;;;Via Turati Filippo;Via Filippo Turati
+35319977;;;Via Don Minzoni Giovanni;Via don Giovanni Minzoni
+35321194;;;Via De Nicola Enrico;Via Enrico De Nicola
+35321195;;;Via De Nicola Enrico;Via Enrico De Nicola
+35321196;;;Via Bonomi Ivanoe;Via Ivanoe Bonomi
+35321557;;;Viale 10 Giugno;Viale Dieci Giugno
+35321958;;;Via Bertolo Giovanni Maria;Via Giovanni Maria Bertolo
+35321959;;;Via Bertolo Giovanni Maria;Via Giovanni Maria Bertolo
+35321961;;;Via Bertolo Giovanni Maria;Via Giovanni Maria Bertolo
+35321963;;;Via Bertolo Giovanni Maria;Via Giovanni Maria Bertolo
+35321965;;;Via Bertolo Giovanni Maria;Via Giovanni Maria Bertolo
+35321968;;;Via Bertolo Giovanni Maria;Via Giovanni Maria Bertolo
+35321969;;;Via Bertolo Giovanni Maria;Via Giovanni Maria Bertolo
+35321970;;;Via Bertolo Giovanni Maria;Via Giovanni Maria Bertolo
+35321971;;;Via Cristofferi Giovanni;Via Giovanni Cristofferi
+35321974;;;Via Tadiotto Umberto;Via Umberto Tadiotto
+35324490;;;Viale Gentiloni Vincenzo;Viale Vincenzo Gentiloni
+35324504;;;Via Facchinetti Giuseppe;Via Giuseppe Facchinetti
+35324505;;;Via Facchinetti Giuseppe;Via Giuseppe Facchinetti
+35324507;;;Via Facchinetti Giuseppe;Via Giuseppe Facchinetti
+35324510;;;Via Facchinetti Giuseppe;Via Giuseppe Facchinetti
+35324511;;;Via Facchinetti Giuseppe;Via Giuseppe Facchinetti
+35324512;;;Via Facchinetti Giuseppe;Via Giuseppe Facchinetti
+35324513;;;Via Facchinetti Giuseppe;Via Giuseppe Facchinetti
+35324514;;;Via Col. Alessandro Avogadro Di Casanova;Via Alessandro Avogadro Casanova
+35324515;;;Viale 10 Giugno;Viale Dieci Giugno
+35605650;;;Via Brigata Monte Baldo;Via Battaglione Monte Baldo
+35672211;;;Via Carli Giovanni;Via Giovanni Carli
+35672520;;;Via Randaccio Giovanni;Via Giovanni Randaccio
+35672521;;;Via Randaccio Giovanni;Via Giovanni Randaccio
+35672522;;;Via Randaccio Giovanni;Via Giovanni Randaccio
+35672523;;;Via Randaccio Giovanni;Via Giovanni Randaccio
+35672525;;;Via Papa Achille;Via Achille Papa
+35672526;;;Via Cantore Antonio;Via Antonio Cantore
+35672527;;;Via Cederle Giuseppe;Via Giuseppe Cederle
+35672528;;;Via Sasso Marco;Via Marco Sasso
+35672529;;;Via Sasso Marco;Via Marco Sasso
+35672532;;;Via Sasso Marco;Via Marco Sasso
+35672929;;;Via Pieri Eleonoro Negri;Via Pier Eleonoro Negri
+35672930;;;Vicolo Benvenuto De Campesani;Vicolo Benvenuto de Campesani
+35672931;;;Via De Ferretti;Via Ferreto de Ferreti
+35672932;;;Via Pieri Eleonoro Negri;Via Pier Eleonoro Negri
+35672933;;;Vicolo Benvenuto De Campesani;Vicolo Benvenuto de Campesani
+35672942;;;Via Rossi Alessandro;Via Alessandro Rossi
+35673617;;;Via Giordano Umberto;Via Umberto Giordano
+35678491;;;Via Domeniconi;Strada Domeniconi
+35678496;;;Via Cimarosa Domenico;Via Domenico Cimarosa
+35678497;;;Via Cimarosa Domenico;Via Domenico Cimarosa
+35678498;;;Via Cimarosa Domenico;Via Domenico Cimarosa
+35678499;;;Via Cimarosa Domenico;Via Domenico Cimarosa
+35678501;;;Via Zandonai Riccardo;Via Riccardo Zandonai
+35678503;;;Via Moneta Ernesto Teodoro;Via Ernesto Teodoro Moneta
+35786714;;;Strada Padana Verso Verona;Strada Padana verso Verona
+37027849;;;Via Zamenhof;Via Ludovico Lazzaro Zamenhof
+37027852;;;Via S. Ceccato;Via Silvio Ceccato
+37027853;;;Via S. Ceccato;Via Silvio Ceccato
+37041825;;;Via Saviabona;Strada di Saviabona
+37041826;;;Via Saviabona;Strada di Saviabona
+37041827;;;Via Saviabona;Strada di Saviabona
+37041996;;;Via Saviabona;Strada di Saviabona
+37130622;;;Viale Bartolomeo D'Alviano;Viale Bartolomeo d'Alviano
+37180206;;;Via Molini;Strada dei Molini
+37885716;;;Via De Nicola Enrico;Via Enrico De Nicola
+37937216;;;Via San Rocco;Strada di San Rocco
+38657617;;;Autostrada della Valdastico;Autostrada Valdastico
+39260526;;;Largo Wolfgang Goethe;Largo Volfango Goethe
+39260530;;;Viale Bartolomeo D'Alviano;Viale Bartolomeo d'Alviano
+39501289;;;Via F. Crispi;Viale Francesco Crispi
+40126439;;;Strada Caperse;Strada delle Caperse
+40126445;;;Strada Pelosa;Strada della Pelosa
+40126446;;;Strada Pelosa;Strada della Pelosa
+40126447;;;Strada Pelosa;Strada della Pelosa
+40126449;;;Strada Pelosa;Strada della Pelosa
+40425642;;;Viale dello Stadio;Via dello Stadio
+40425643;;;Viale dello Stadio;Via dello Stadio
+42019819;;;Via Nicolosi;Stradone dei Nicolosi
+42019829;;;Via Nicolosi;Stradone dei Nicolosi
+42130269;;;Stradello San Marcello;Stradella San Marcello
+42130349;;;Via Fontana Giuseppe;Via Giuseppe Fontana
+42130351;;;Contrà Cesare Battisti;Via Cesare Battisti
+42441578;;;Viale 10 Giugno;Viale Dieci Giugno
+42466477;;;Contrà Riale;Contra' Riale
+42466616;;;Contrà Camillo Benso di Cavour;Contra' Camillo Benso Cavour
+42466618;;;Contrà Muschieria;Contra' Muscheria
+42466620;;;Contrà Muschieria;Contra' Muscheria
+42466887;;;Contrà Giampietro De Proti;Contra' Giampietro De' Proti
+42466889;;;Contrà Pescherie Vecchie;Contra' Pescherie Vecchie
+42467031;;;Contrà del Monte;Contra' del Monte
+42467034;;;Contrà Antonio Pigafetta;Via Antonio Pigafetta
+42467042;;;Contra' Paolo Lioy;Via Paolo Lioy
+42467184;;;Contrà Fedele Lampertico;Contra' Fedele Lampertico
+42468087;;;Stradella Banca Popolare;Stradella della Banca Popolare
+42468090;;;Stradella Stanto Stefano;Stradella Santo Stefano
+42468091;;;Contrà Giacomo Zanella;Contra' Giacomo Zanella
+42468092;;;Contrà Motton Pusterla;Contra' Motton Pusterla
+42468093;;;Contrà Santa Corona;Contra' Santa Corona
+42468250;;;Corso Palladio;Corso Andrea Palladio
+42468253;;;Corso Palladio;Corso Andrea Palladio
+42468255;;;Contra' Cabianca Jacopo;Contra' Jacopo Cabianca
+42468261;;;Contra' Gazzolle;Contra' delle Gazzolle
+42651126;;;Contrà San Francesco Vecchio;Contra' San Francesco Vecchio
+42651130;;;Contrada Vescovado;Contra' Vescovado
+42651138;;;Via Cordenons Pasquale;Via Pasquale Cordenons
+42652411;;;Via Chinotto Antonio;Via Antonio Chinotto
+42652414;;;Viale Risorgimento;Viale Risorgimento Nazionale
+42652420;;;Contra' del Pozzetto;Contra' Pozzetto
+42652427;;;Contrà delle Barche;Contra' delle Barche
+42672885;;;Contrà Cantarane;Contra' Cantarane
+42672886;;;Contrà Sant'Ambrogio;Contra' Sant'Ambrogio
+42672890;;;Contrà Porta Nova;Contra' Porta Nova
+42672892;;;Contrà Santa Maria Nova;Contra' Santa Maria Nova
+42672893;;;Stradella delle Beccariette;Via Beccariette
+42672894;;;Contrà Mure Carmini;Contra' Mure Carmini
+42672895;;;Contrada del Borghetto;Contra' del Borghetto
+42672898;;;Contrà Cantarane;Contra' Cantarane
+42672900;;;Contrà Giovanni Busato;Contra' Giovanni Busato
+42672903;;;Contrà Corpus Domini;Contra' Corpus Domini
+42672904;;;Contrà San Rocco;Contra' San Rocco
+42673360;;;Via Cavalli Luigi;Via Luigi Cavalli
+42673377;;;Via Monte Pau;Via Monte Paù
+42673386;;;Via Monte Pria Fora';Via Monte Pria Forà
+42673387;;;Via Monte Pria Fora';Via Monte Pria Forà
+42678983;;;Via Sauro Nazario;Via Nazario Sauro
+42678987;;;Viale Rumor Mariano;Viale Mariano Rumor
+42678988;;;Contrà delle Chioare;Contra' delle Chioare
+42678989;;;Contrà delle Chioare;Contra' delle Chioare
+42678992;;;Contrà delle Fontanelle;Contra' delle Fontanelle
+42678994;;;corte del Molini;Corte dei Molini
+42678996;;;corte del Lotto;Corte del Lotto
+42679003;;;Via IV Novembre;Via Quattro Novembre
+42679284;;;Via Formenton Tomaso;Via Tomaso Formenton
+42679285;;;Via Panizza Bartolomeo;Via Bartolomeo Panizza
+42679290;;;Via Di Velo Gerolamo Egidio;Via Gerolamo Egidio di Velo
+42679291;;;Via Muttoni Francesco;Via Francesco Muttoni
+42679294;;;Via Cappellari Giovanni Giuseppe;Via Giovanni Giuseppe Cappellari
+42679295;;;Via Gaia Luciano;Via Luciano Gaia
+42679296;;;Via Gaia Luciano;Via Luciano Gaia
+42679550;;;Via Morellato Paolo;Via Paolo Morellato
+42679553;;;Viale Trissino Giangiorgio;Viale Gian Giorgio Trissino
+42679557;;;Viale Trissino Giangiorgio;Viale Gian Giorgio Trissino
+42679561;;;Stradella Forti in corso Padova;Stradella Forti in Corso Padova
+42679568;;;Via Castellini Silvestro;Via Silvestro Castellini
+42679570;;;Via Varese Casimiro;Via Casimiro Varese
+42679573;;;Stradella Forti in corso Padova;Stradella Forti in Corso Padova
+42679574;;;Via Fantoni Gabriele;Via Gabriele Fantoni
+42679576;;;Via Parisotto Luigi;Via Luigi Parisotto
+42679577;;;Via Ruspoli Bartolomeo;Via Bartolomeo Ruspoli
+42679578;;;Via Simonetti Rinaldo;Via Rinaldo Simonetti
+42680571;;;Via Mariani Camillo;Via Camillo Mariani
+42791534;;;Via Macca Gaetano;Via Gaetano Maccà
+42791536;;;Via Capparozzo Giuseppe;Via Giuseppe Capparozzo
+42791537;;;Via Berlendis Francesco;Via Francesco Berlendis
+42791539;;;Via Capparozzo Giuseppe;Via Giuseppe Capparozzo
+42791898;;;Via Gasparoni Giovanni;Via Giovanni Gasparoni
+42791899;;;Via Salvi Gerolamo;Via Gerolamo Salvi
+42791900;;;Via Giovanni Da Pedemuro;Via Giovanni da Pedemuro
+42791902;;;Via Capparozzo Giuseppe;Via Giuseppe Capparozzo
+42791903;;;Via Meschinelli Domenico;Via Domenico Meschinelli
+42791904;;;Via Gasparoni Giovanni;Via Giovanni Gasparoni
+42791906;;;Via Mozzi Antonio;Via Antonio Mozzi
+42791907;;;Via Picutti Giovanni;Via Giovanni Picutti
+42791908;;;Via Speranza Giovanni;Via Giovanni Speranza
+42791909;;;Via Oppi Ubaldo;Via Ubaldo Oppi
+42792423;;;Via Capparozzo Giuseppe;Via Giuseppe Capparozzo
+42792425;;;Via Savi Ignazio;Via Ignazio Savi
+42792426;;;Via De Mori Giuseppe;Via Giuseppe De Mori
+42792427;;;Via Capparozzo Giuseppe;Via Giuseppe Capparozzo
+42792428;;;Via Meschinelli Domenico;Via Domenico Meschinelli
+42792459;;;Via Di Velo Gerolamo Egidio;Via Gerolamo Egidio di Velo
+42794376;;;Via Valle Aulo Gellio;Via Aulo Gellio Valle
+42794377;;;Via Pontedera Giulio;Via Giulio Pontedera
+42794378;;;Via Quadri Giovanni Battista;Via Giovanni Battista Quadri
+42794379;;;Via Mastini Antonio;Via Antonio Mastini
+42794380;;;Via Aliani Luigi;Via Luigi Aliani
+42794381;;;Via Boschetti Bartolomeo;Via Bartolomeo Boschetti
+42794382;;;Via Grandesso Silvestri Olinto;Via Olinto Grandesso Silvestri
+42794383;;;Via Pontedera Giulio;Via Giulio Pontedera
+42796860;;;Via Zanon Don Ottorino;Via don Ottorino Zanon
+42796864;;;Via Zanon Don Ottorino;Via don Ottorino Zanon
+42796868;;;Via Tortosa Giuseppe;Via Giuseppe Tortosa
+42796870;;;Via Alpino Prospero;Via Prospero Alpino
+42796876;;;Strada scuole dell'Anconetta;Strada Scuole dell'Anconetta
+42796877;;;Strada scuole dell'Anconetta;Strada Scuole dell'Anconetta
+42796878;;;Via Munarini Francesco;Via Francesco Munarini
+42796879;;;Via Ghiotto Clementina;Via Clementina Ghiotto
+42796880;;;Strada scuole dell'Anconetta;Strada Scuole dell'Anconetta
+42796881;;;Via Munarini Francesco;Via Francesco Munarini
+42796882;;;Strada scuole dell'Anconetta;Strada Scuole dell'Anconetta
+42796883;;;Strada scuole dell'Anconetta;Strada Scuole dell'Anconetta
+42796968;;;Strada scuole dell'Anconetta;Strada Scuole dell'Anconetta
+42797087;;;Strada Ponte del Bo';Strada Ponte del Bo
+42797088;;;Strada Ponte del Bo';Strada Ponte del Bo
+42797089;;;Strada Ponte del Bo';Strada Ponte del Bo
+42797090;;;Strada Ponte del Bo';Strada Ponte del Bo
+42797091;;;Via Ponte del Bo';Strada Ponte del Bo
+42802097;;;Via Giovanni Pierluigi Da Palestrina;Via Giovanni Pierluigi da Palestrina
+42802100;;;Vialetto Elsi Francesco;Vialetto Francesco Elsi
+42802102;;;Vialetto Elsi Francesco;Vialetto Francesco Elsi
+42802275;;;Strada Vicinale del Monte Crocetta;Strada vicinale del Monte Crocetta
+42802291;;;Via Malaspina Alessandro;Via Alessandro Malaspina
+42802292;;;Via De Conti Niccolo';Via Niccolò De' Conti
+42802293;;;Via Vasco De Gama;Via Vasco da Gama
+42802294;;;Via Usodimare Antoniotto;Via Antoniotto Usodimare
+42802295;;;Via Colombo Cristoforo;Via Cristoforo Colombo
+42802296;;;Strada Vicinale del Monte Crocetta;Strada vicinale del Monte Crocetta
+42803355;;;Ciclabile Dalla Chiesa Generale N. Carlo Alberto;Ciclabile di Via generale Carlo Alberto dalla Chiesa
+42803358;;;Via Maccagini Carolina;Via Carolina Maccagnini
+42803361;;;Via Leoniceno Ognibene;Via Ognibene Leoniceno
+42803362;;;Via Emiliani Giovanni S.;Via Giovanni Stefano Emiliani
+42803363;;;Via Maurisio Gerardo;Via Gerardo Maurisio
+42803364;;;Via Vivorio Agostino;Via Agostino Vivorio
+42803366;;;Via Bachelet Vittorio;Via Vittorio Bachelet
+42803367;;;Via Bachelet Vittorio;Via Vittorio Bachelet
+42803368;;;Via Ferrazzi Giuseppe;Via Giuseppe Ferrazzi
+42803369;;;Via Generale Carlo Alberto Dalla Chiesa;Via generale Carlo Alberto dalla Chiesa
+42803370;;;Via Generale Carlo Alberto Dalla Chiesa;Via generale Carlo Alberto dalla Chiesa
+42803371;;;Via Zuccato Emanuele;Via Emanuele Zuccato
+42803375;;;Via Zuccato Emanuele;Via Emanuele Zuccato
+42805866;;;Via Fabiani Ramiro;Via Ramiro Fabiani
+42805867;;;Via Basilio Dalla Scola;Via Basilio dalla Scola
+42809152;;;Via Calvi Paolo;Via Paolo Calvi
+42809156;;;Via Della Robbia Luca;Via Luca della Robbia
+42809159;;;Via Rumor Sebastiano;Via Sebastiano Rumor
+42809160;;;Via Palma Il Giovane Jacopo;Via Jacopo Palma il Giovane
+42809161;;;Via Piazzetta Giambattista;Via Giambattista Piazzetta
+42809163;;;Via Bortolan Domenico;Via Domenico Bortolan
+42809164;;;Piazza San Pio X;Piazza San Pio decimo
+42809165;;;Via Gamba Bartolomeo;Via Bartolomeo Gamba
+42809166;;;Via Belli Valerio;Via Valerio Belli
+42809168;;;Via Belli Valerio;Via Valerio Belli
+42809169;;;Via Corradini Francesco;Via Francesco Corradini
+42809170;;;Via Bonato Modesto;Via Modesto Bonato
+42809171;;;Via Corradini Francesco;Via Francesco Corradini
+42809172;;;Via Corradini Francesco;Via Francesco Corradini
+42809173;;;Via Calvi Paolo;Via Paolo Calvi
+42809174;;;Via Calvi Paolo;Via Paolo Calvi
+42809177;;;Via Molon Francesco;Via Francesco Molon
+42809178;;;Via Belli Valerio;Via Valerio Belli
+42809180;;;Via Belli Valerio;Via Valerio Belli
+42809181;;;Via Pedrollo Arrigo;Via Arrigo Pedrollo
+42809185;;;Via Maraini Andrea;Via Andrea Marani
+42809186;;;Via Sale Cornelia;Via Cornelia Sale
+42809187;;;Via Magrini Antonio;Via Antonio Magrini
+42809188;;;Via Zago Ortensio;Via Ortensio Zago
+42809189;;;Via Marasca Pietro;Via Pietro Marasca
+42809190;;;Via Faccioli Giantommaso;Via Giantommaso Faccioli
+42809191;;;Via Tornieri Arnaldo;Via Arnaldo Tornieri
+42809193;;;Via Vittorelli Jacopo;Via Jacopo Vittorelli
+42809194;;;Via Palemone Remnio;Via Remnio Palemone
+42809195;;;Via Pizzardi Barnaba;Via Barnaba Pizzardi
+42809196;;;Via Corbetta Giorgio;Via Giorgio Corbetta
+42809197;;;Via Marzari Giacomo;Via Giacomo Marzari
+42809198;;;Via Gonzati Vincenzo;Via Vincenzo Gonzati
+42809199;;;Via Zugliano Girolamo;Via Girolamo Zugliano
+42809200;;;Via Morsolin Bernardo;Via Bernardo Morsolin
+42809201;;;Via Toaldo Giuseppe;Via Giuseppe Toaldo
+42809202;;;Via Zugliano Girolamo;Via Girolamo Zugliano
+42809203;;;Via Lorenzoni Antonio;Via Antonio Lorenzoni
+42809204;;;Via Da Ponte Leandro;Via Leandro da Ponte
+42809205;;;galleria Tiziano;Galleria Tiziano
+42809206;;;Via Da Ponte Leandro;Via Leandro da Ponte
+42809209;;;Via Pasqualigo Francesco;Via Francesco Pasqualigo
+42809210;;;Via Zancon Gaetano;Via Gaetano Zancon
+42809211;;;Via Bassani Francesco;Via Francesco Bassani
+42809216;;;Via Volpato Giovanni;Via Giovanni Volpato
+42809217;;;Via Corbetta Giorgio;Via Giorgio Corbetta
+42809218;;;Via Giuriato Adolfo;Via Adolfo Giuriato
+42809219;;;Via Giuriato Adolfo;Via Adolfo Giuriato
+42809220;;;Via Basilio Dalla Scola;Via Basilio dalla Scola
+42809222;;;Via Basilio Dalla Scola;Via Basilio dalla Scola
+42809223;;;Via Basilio Dalla Scola;Via Basilio dalla Scola
+42809224;;;Via Basilio Dalla Scola;Via Basilio dalla Scola
+42809225;;;Via Basilio Dalla Scola;Via Basilio dalla Scola
+42809226;;;Via Basilio Dalla Scola;Via Basilio dalla Scola
+42809227;;;Via Basilio Dalla Scola;Via Basilio dalla Scola
+42857178;;;Via Meschinelli Domenico;Via Domenico Meschinelli
+42857180;;;Via Meschinelli Domenico;Via Domenico Meschinelli
+42857181;;;Via Meschinelli Domenico;Via Domenico Meschinelli
+42857182;;;Via Groppino Domenico;Via Domenico Groppino
+42857183;;;Via Fasolo Giovanni Antonio;Via Giovanni Antonio Fasolo
+42857184;;;Via De Pieri Antonio;Via Antonio De' Pieri
+42857186;;;Via De Pieri Antonio;Via Antonio De' Pieri
+42857187;;;Via Quadri Giovan Battista;Via Giovanni Battista Quadri
+42857189;;;Via Groppino Domenico;Via Domenico Groppino
+42857190;;;Via Groppino Domenico;Via Domenico Groppino
+42857191;;;Via Marchi Giuseppe;Via Giuseppe Marchi
+42857194;;;Viale Fusinieri Ambrogio;Viale Ambrogio Fusinieri
+42857543;;;Via Bellavitis Giusto;Via Giusto Bellavitis
+42857545;;;Via Gasparella Girolamo;Via Girolamo Gasparella
+42857546;;;Via Dian Giuseppe;Via Giuseppe Dian
+42857547;;;Via Pittarini Domenico;Via Domenico Pittarini
+42857550;;;Via G. Zanecchin;Via Giulio Zanecchin
+42857555;;;Via Smereglo Nicol;Via Nicolò Smereglo
+42857556;;;Via Pittarini Domenico;Via Domenico Pittarini
+42857557;;;Via Pittarini Domenico;Via Domenico Pittarini
+42857558;;;Via Conforto Da Costozza;Via Conforto da Costozza
+42857559;;;Via Pittarini Domenico;Via Domenico Pittarini
+42857560;;;Via Pittarini Domenico;Via Domenico Pittarini
+42857561;;;Viale Trissino Giangiorgio;Viale Gian Giorgio Trissino
+42857572;;;Via Ferreri Zaccaria;Via Zaccaria Ferreri
+42857574;;;Via Pittoni Girolamo;Via Girolamo Pittoni
+42859448;;;Via Barbieri Giuseppe;Via Giuseppe Barbieri
+42859449;;;Via Bonamico Lazzaro;Via Lazzaro Bonamico
+42859451;;;Via Testa Francesco;Via Francesco Testa
+42859452;;;Via Rossato Arturo;Via Arturo Rossato
+42859460;;;Via Salin Lorenzo;Via Lorenzo Salin
+42859466;;;Via Beltrame Achille;Via Achille Beltrame
+42859467;;;Via De Muri Elisa;Via Elisa De Muri
+42859470;;;Via Zorzi Michelangelo;Via Michelangelo Zorzi
+42859476;;;Via Zorzi Michelangelo;Via Michelangelo Zorzi
+42861712;;;Via Marco Da Montegallo;Via Marco da Montegallo
+42861713;;;Via Fina Bortolo Eugenio;Via Bortolo Eugenio Fina
+42861714;;;Via Piovene Cesare;Via Cesare Piovene
+42861715;;;Via Schiavo Alessandro;Via Alessandro Schiavo
+42861717;;;Via Remondini Giambattista;Via Giambattista Remondini
+42861718;;;Via Borgo Carlo;Via Carlo Borgo
+42861719;;;Via Matteazzi Angelo;Via Angelo Matteazzi
+42861720;;;Via Rompato Romana;Via Romana Rompato
+42861721;;;Via Brocchi Giambattista;Via Giambattista Brocchi
+42861722;;;Via Scaramuzza Sebastiano;Via Sebastiano Scaramuzza
+42861724;;;Via Dal Pozzo Agostino;Via Agostino Dal Pozzo
+42861727;;;Via Bressan Bartolomeo;Via Bartolomeo Bressan
+42861728;;;Via Anguissola Spirito;Via Spirito Anguissola
+42861730;;;Via Verci Giambattista;Via Giambattista Verci
+42861731;;;Via Remondini Giambattista;Via Giambattista Remondini
+42861732;;;Via Musocco Giuseppe;Via Giuseppe Musocco
+42861733;;;Via Trecco Giovanni Battista;Via Giovanni Battista Trecco
+42861735;;;Via Fina Bortolo Eugenio;Via Bortolo Eugenio Fina
+42861736;;;Via Fina Bortolo Eugenio;Via Bortolo Eugenio Fina
+42861739;;;Via Schiavo Alessandro;Via Alessandro Schiavo
+42861740;;;Via Schiavo Alessandro;Via Alessandro Schiavo
+42861741;;;Via Abriani Paolo;Via Paolo Abriani
+42861742;;;Via Bevilacqua Antonio;Via Antonio Bevilacqua
+42861744;;;Via Poletto Giacomo;Via Giacomo Poletto
+42861747;;;Via Marco Antonio Pellegrini;Via Marc'Antonio Pellegrini
+42866884;;;Via E. Tosato;Via Egidio Tosato
+42866890;;;Via Lattes L.;Via Laura Lattes
+42866893;;;Via G. Cappelletti;Via Guglielmo Cappelletti
+42866896;;;Via G. Cappelletti;Via Guglielmo Cappelletti
+42867305;;;Via Bonacossi Beatrice;Via Beatrice Bonacossi
+42867306;;;Via Fabris Luigi Maria;Via Luigi Maria Fabris
+42867308;;;Via Civran Giuseppe;Via Giuseppe Civran
+42867309;;;Via Fabris Luigi Maria;Via Luigi Maria Fabris
+42867310;;;Via Girotto Almerigo;Via Almerigo Girotto
+42867311;;;Via Spinelli Nicola;Via Nicolò Spinelli
+42867312;;;Via Rancan Lucia;Via Lucia Rancan
+42869297;;;Piazzale Cocchetti Beata Annunciata;Piazzale Beata Annunciata Cocchetti
+42869301;;;Via Navarotto Adriano;Via Adriano Navarotto
+42869302;;;Via Formica Domenico;Via Domenico Formica
+42869303;;;Via Meneghello Vittorio;Via Vittorio Meneghello
+42870105;;;Strada di Setteca';Strada di Settecà
+42870106;;;Strada di Setteca';Strada di Settecà
+42870107;;;Strada di Setteca';Strada di Settecà
+42922439;;;Strada di Setteca';Strada di Settecà
+42922440;;;Strada di Setteca';Strada di Settecà
+42922441;;;Strada di Setteca';Strada di Settecà
+42922888;;;Strada di Setteca';Strada di Settecà
+42922889;;;Strada di Setteca';Strada di Settecà
+42922890;;;Strada di Setteca';Strada di Settecà
+42922891;;;Strada di Setteca';Strada di Settecà
+42922892;;;Strada di Setteca';Strada di Settecà
+42922893;;;Strada di Setteca';Strada di Settecà
+42922895;;;Strada di Setteca';Strada di Settecà
+42922896;;;Strada di Setteca';Strada di Settecà
+42922897;;;Strada di Setteca';Strada di Settecà
+42922898;;;Strada di Setteca';Strada di Settecà
+42922899;;;Strada di Setteca';Strada di Settecà
+42936179;;;Via Faggin G.;Via Giuseppe Faggin
+42936491;;;"Scalette di Porta Monte";Scalette di Porta Monte
+42936492;;;Via Tiepolo Giambattista;Via Giambattista Tiepolo
+42936495;;;Via Tiepolo Giambattista;Via Giambattista Tiepolo
+42936497;;;Via Franco Camillo;Via Camillo Franco
+42969109;;;Via Veronese Paolo;Via Paolo Veronese
+42969113;;;Via Emerson Ralph W.;Via Ralph Waldo Emerson
+42969114;;;Largo Fulton Robert;Largo Robert Fulton
+42969118;;;Via Edison Thomas A.;Via Thomas Alva Edison
+43598761;;;ponte di Debba;Ponte di Debba
+45407585;;;Via F. Corridoni;Via Filippo Corridoni
+46097057;;;Via Umberto Rattazzi;Via Urbano Rattazzi
+47669040;;;Via De Ferretti;Via Ferreto de Ferreti
+47805544;;;Contrà Pusterla;Contra' Pusterla
+47805546;;;ponte Pusterla;Ponte Pusterla
+47863846;;;Largo Wolfgang Goethe;Largo Volfango Goethe
+47863847;;;Contrà Giuseppe Apolloni;Contra' Giuseppe Apolloni
+47863848;;;Contrà Canove;Contra' delle Canove
+47863850;;;Contra' Canove;Contra' delle Canove
+47945438;;;Via Torino;Viale Torino
+47945440;;;Via Torino;Viale Torino
+47945460;;;Via De Ferretti;Via Ferreto de Ferreti
+47945461;;;Via De Ferretti;Via Ferreto de Ferreti
+47945462;;;Via De Ferretti;Via Ferreto de Ferreti
+49360712;;;Via G. Zanellato;Via Giacomo Zanellato
+50241391;;;Via Brg. Liguria;Via Brigata Liguria
+50241393;;;Via Guglielmo Pecori Giraldi;Viale Guglielmo Pecori Giraldi
+50241394;;;Via Guglielmo Pecori Giraldi;Viale Guglielmo Pecori Giraldi
+51086320;;;Via Generale Giacomo Medici;Via Giacomo Medici
+51194168;;;Ciclabile Dalla Chiesa Generale N. Carlo Alberto;Ciclabile di Via generale Carlo Alberto dalla Chiesa
+51194169;;;Via Generale Carlo Alberto Dalla Chiesa;Via generale Carlo Alberto dalla Chiesa
+51792850;;;Via Guglielmo Pecori Giraldi;Viale Guglielmo Pecori Giraldi
+52245430;;;Via Produttività;Via della Produttività
+52245431;;;Via Produttività;Via della Produttività
+52533442;;;Viale Bartolomeo D'Alviano;Viale Bartolomeo d'Alviano
+52533444;;;Viale Bartolomeo D'Alviano;Viale Bartolomeo d'Alviano
+58078232;;;Viale dello Stadio;Via dello Stadio
+58078234;;;Viale dello Stadio;Via dello Stadio
+58078371;;;Viale Risorgimento;Viale Risorgimento Nazionale
+58078660;;;Viale Risorgimento;Viale Risorgimento Nazionale
+58216346;;;Viale Massimo D'Azeglio;Viale Massimo d'Azeglio
+58216582;;;Viale 10 Giugno;Viale Dieci Giugno
+59096016;;;Viale Ragazzi del '99;Via Ragazzi del '99
+59662729;;;Via Soldà;Via Gino Soldà
+59662730;;;Via Monsignor Arnoldo Onisto;Via monsignor Arnoldo Onisto
+70954951;;;Via Mantovani Ferdinando Maria;Via Ferdinando Maria Mantovani
+70954952;;;Via Mantovani Ferdinando Maria;Via Ferdinando Maria Mantovani
+71891960;;;Viale Santa Margherita;Viale Margherita
+71892540;;;Viale dello Stadio;Via dello Stadio
+71892542;;;Viale dello Stadio;Via dello Stadio
+71892545;;;Viale dello Stadio;Via dello Stadio
+71892546;;;Viale dello Stadio;Via dello Stadio
+75716253;;;Via Vittime Civili di guerra;Via Vittime Civili di Guerra
+75716254;;;Via Vittime Civili di guerra;Via Vittime Civili di Guerra
+75716265;;;Via Vittime Civili di guerra;Via Vittime Civili di Guerra
+78523868;;;Via Fra' Paolo Sarpi;Via fra' Paolo Sarpi
+78523869;;;Via Fra' Paolo Sarpi;Via fra' Paolo Sarpi
+79175808;;;Via IV Novembre;Via Quattro Novembre
+83464784;;;Via Basilio Dalla Scola;Via Basilio dalla Scola
+83464786;;;Via Basilio Dalla Scola;Via Basilio dalla Scola
+83698353;;;Via Quadri Giovan Battista;Via Giovanni Battista Quadri
+86975450;;;Strada delle Cà Tosate;Strada delle Ca' Tosate
+88444773;;;Viale Risorgimento;Viale Risorgimento Nazionale
+88444775;;;Viale Risorgimento;Viale Risorgimento Nazionale
+88497993;;;Viale Risorgimento;Viale Risorgimento Nazionale
+88498002;;;Viale Risorgimento;Viale Risorgimento Nazionale
+89433077;;;Via De Conti Niccolo';Via Niccolò De' Conti
+89433080;;;Via Malaspina Alessandro;Via Alessandro Malaspina
+89433081;;;Via Usodimare Antoniotto;Via Antoniotto Usodimare
+91041795;;;Via Bertolo Giovanni Maria;Via Giovanni Maria Bertolo
+95659738;;;Ponte S.Michele;Ponte San Michele
+96061577;;;Strada di Setteca';Strada di Settecà
+96061579;;;Strada di Setteca';Strada di Settecà
+96061582;;;Strada di Setteca';Strada di Settecà
+98396249;;;Contrada della Misericordia;Contra' della Misericordia
+98396326;;;Via G. Pagliarino;Via Giambattista Pagliarino
+98396552;;;Via E. Torricelli;Via Evangelista Torricelli
+98396605;;;Via A. Pacinotti;Via Antonio Pacinotti
+98494636;;;Via G. Giacosa;Via Giuseppe Giacosa
+101948793;;;Via Fra' Paolo Sarpi;Via fra' Paolo Sarpi
+101975556;;;Contrà Pescaria;Contra' Pescaria
+101975560;;;Contrà Giuseppe Garibaldi;Contra' Giuseppe Garibaldi
+101978182;;;Contra' Manin Daniele;Contra' Daniele Manin
+101983888;;;Via C. Del Prete;Via Carlo del Prete
+102225911;;;Strada delle Cà Tosate;Strada delle Ca' Tosate
+102225912;;;Via Quadri Giovan Battista;Via Giovanni Battista Quadri
+102225913;;;Via Quadri Giovan Battista;Via Giovanni Battista Quadri
+102225914;;;Via Pizzocaro Antonio;Via Antonio Pizzocaro
+102225915;;;Via Quadri Giovan Battista;Via Giovanni Battista Quadri
+107756006;;;Via D. Piccoli;Via Domenico Piccoli
+115567986;;;Via Pizzocaro Antonio;Via Antonio Pizzocaro
+115567989;;;Via Quadri Giovan Battista;Via Giovanni Battista Quadri
+115567995;;;Via Pizzocaro Antonio;Via Antonio Pizzocaro
+115766363;;;Viale Massimo D'Azeglio;Viale Massimo d'Azeglio
+115766366;;;Pista Ciclabile Riviera Berica "R. Casarotto";Pista Ciclabile Renato Casarotto
+116573876;;;Via Gioacchino Rossini;Via Gioachino Rossini
+116573878;;;Via Arcangel Corelli;Via Arcangelo Corelli
+116574177;;;Via Alfonso La Marmora;Via Alfonso Lamarmora
+116574989;;;Corso Palladio;Corso Andrea Palladio
+116574990;;;Corso Palladio;Corso Andrea Palladio
+116574995;;;Contrà Giampietro De Proti;Contra' Giampietro De' Proti
+116574997;;;Viale 10 Giugno; Viale Venezia;Viale Dieci Giugno
+116574999;;;Via Fra' Paolo Sarpi;Via fra' Paolo Sarpi
+116575001;;;Contrada della Misericordia;Contra' della Misericordia
+116575003;;;Contrada del Borghetto;Contra' del Borghetto
+117139533;;;Via Roma;Viale Roma
+117139557;;;Sotopasso Alidosio;Sottopasso Alidosio
+117139559;;;Via Giovan Battista Quadri;Via Giovanni Battista Quadri
+117139570;;;Strada Ca' Balbi;Strada di Ca' Balbi
+117236498;;;Viale Fusinieri Ambrogio;Viale Ambrogio Fusinieri
+117676571;;;ponte di Debba;Ponte di Debba
+117676602;;;ponte di Debba;Ponte di Debba
+117676609;;;ponte di Debba;Ponte di Debba
+117676611;;;ponte di Debba;Ponte di Debba
+117880986;;;Viale 10 Giugno;Viale Dieci Giugno
+117881031;;;Via Tormeno;Strada del Tormeno
+118339523;;;Autostrada della Valdastico;Autostrada Valdastico
+118564475;;;Via Formenton Tomaso;Via Tomaso Formenton
+119029865;;;Strada Costabissara;Strada di Costabissara
+119029878;;;Strada Costabissara;Strada di Costabissara
+119099766;;;Viale dello Stadio;Via dello Stadio
+119151788;;;Pista Ciclabile Casarotto Renato;Pista Ciclabile Renato Casarotto
+119152095;;;Pista Ciclabile Casarotto Renato;Pista Ciclabile Renato Casarotto
+119446402;;;Via Generale Giacomo Medici;Via Giacomo Medici
+119446405;;;Via Generale Giacomo Medici;Via Giacomo Medici
+119870731;;;Viale Ragazzi del '99;Via Ragazzi del '99
+119870733;;;Via Cricoli;Viale Cricoli
+119870734;;;Via Cricoli;Viale Cricoli
+119870736;;;Via Cricoli;Viale Cricoli
+119870738;;;Via Cricoli;Viale Cricoli
+119870739;;;Via Cricoli;Viale Cricoli
+119870743;;;Via Cricoli;Viale Cricoli
+119870745;;;Viale Ragazzi del '99;Via Ragazzi del '99
+121143469;;;Via Bertolo Giovanni Maria;Via Giovanni Maria Bertolo
+127065602;;;Contrada Cantarane;Contra' Cantarane
+127065603;;;Contrà Cantarane;Contra' Cantarane
+127065604;;;Contrà Giovanni Busato;Contra' Giovanni Busato
+127065605;;;Stradella del Soccorso Soccorsetto;Stradella Soccorso Soccorsetto
+127065606;;;Stradella del Soccorso Soccorsetto;Stradella Soccorso Soccorsetto
+127069339;;;Contrà Cantarane;Contra' Cantarane
+127069340;;;Contrada Mure S. Rocco;Contra' Mure San Rocco
+127069342;;;Contrà Mure San Rocco;Contra' Mure San Rocco
+127070328;;;Contrada del Borghetto;Contra' del Borghetto
+127076178;;;Contrada della Misericordia;Contra' della Misericordia
+127076179;;;Contrada della Misericordia;Contra' della Misericordia
+129311218;;;Via Giovanni Battista Pergolesi;Via Giovan Battista Pergolesi
+130176841;;;Via A. Massaria;Via Alessandro Massaria
+130176842;;;Via Quadri Giovan Battista;Via Giovanni Battista Quadri
+130176843;;;Via Quadri Giovan Battista;Via Giovanni Battista Quadri
+130176844;;;Via Quadri Giovan Battista;Via Giovanni Battista Quadri
+131992127;;;Via U. Scarpelli;Via Uberto Scarpelli
+131992903;;;Via Faedo;Via Alessandro Faedo
+131993077;;;Via U. Scarpelli;Via Uberto Scarpelli
+131993078;;;Via U. Scarpelli;Via Uberto Scarpelli
+133868367;;;Corso Palladio;Corso Andrea Palladio
+133868376;;;Corso Palladio;Corso Andrea Palladio
+134159092;;;Via Matteucci;Via Pellegrino Matteucci
+135662485;;;Via Silvio de Faveri;Via Silvio De Faveri
+135662488;;;Stradone di Nicolosi;Stradone dei Nicolosi
+141467499;;;Viale dello Stadio;Via dello Stadio
+141467500;;;Viale dello Stadio;Via dello Stadio
+144036758;;;Via Frassini;Via dei Frassini
+144037347;;;Via Pioppi;Via dei Pioppi
+144037348;;;Via Ontani;Via degli Ontani
+144372470;;;Via Moneta Ernesto Teodoro;Via Ernesto Teodoro Moneta
+144461733;;;Via Maurisio Gerardo;Via Gerardo Maurisio
+144530304;;;Ciclabile Dalla Chiesa Generale N. Carlo Alberto;Ciclabile di Via generale Carlo Alberto dalla Chiesa
+144595064;;;Strada Padana Verso Verona;Strada Padana verso Verona
+144598165;;;Via Vecchia Ferriera;Via vecchia Ferriera
+144598166;;;Via Vecchia Ferriera;Via vecchia Ferriera
+144623788;;;ciclabile Dalla Chiesa Generale N. Carlo Alberto;Ciclabile di Via generale Carlo Alberto dalla Chiesa
+151091995;;;Via Vecchia Ferriera;Via vecchia Ferriera
+153328800;;;Pista Ciclabile Casarotto Renato;Pista Ciclabile Renato Casarotto
+153328803;;;Pista Ciclabile Casarotto Renato;Pista Ciclabile Renato Casarotto
+153366527;;;Viale 10 Giugno;Viale Dieci Giugno
+157082287;;;"Scalette di Porta Monte";Scalette di Porta Monte
+157217426;;;Via Alfonso La Marmora;Via Alfonso Lamarmora
+158734098;;;Strada del Martello;Strada dal Martello
+160167536;;;Viale Rumor Mariano;Viale Mariano Rumor
+160898697;;;Via Molini;Strada dei Molini
+166122480;;;Via Bonomi Ivanoe;Via Ivanoe Bonomi
+166122481;;;Via Bonomi Ivanoe;Via Ivanoe Bonomi
+166680619;;;Via Miani G.;Via Giovanni Miani
+171785323;;;Piazza Duomo;Piazza del Duomo
+171785324;;;Piazza Duomo;Piazza del Duomo
+171852781;;;Strada privata Garden Filippi;Via Lago Maggiore
+173209766;;;Contrà Pescherie Vecchie;Contra' Pescherie Vecchie
+173209789;;;Via Siderugia;Viale della Siderurgia
+173255713;;;Levà degli Angeli;Leva' degli Angeli
+174299135;;;Via G. Pagliarino;Via Giambattista Pagliarino
+174299136;;;Viale Bartolomeo D'Alviano;Viale Bartolomeo d'Alviano
+174299137;;;Viale Bartolomeo D'Alviano;Viale Bartolomeo d'Alviano
+174299138;;;Viale Bartolomeo D'Alviano;Viale Bartolomeo d'Alviano
+174326622;;;Via E. Dandolo;Via Enrico Dandolo
+178709694;;;Via Lago di Caldiero;Via Lago di Caldaro
+178998078;;;Via Tommaso Dal Molin;Via Tomaso Dal Molin
+178998079;;;Via T. Dal Molin;Via Tomaso Dal Molin
+179049412;;;Via Ponte del Marchese;Strada Ponte del Marchese
+179543858;;;Strada Ponte del Bo';Strada Ponte del Bo
+179543859;;;Strada Ponte del Bo';Strada Ponte del Bo
+179669347;;;Via Petrarca;Via Francesco Petrarca
+179894346;;;Strada delle Colombaretta;Strada della Colombaretta
+180230353;;;Via Calatafini;Via Calatafimi
+181359578;;;Via Quadri Giovan Battista;Via Giovanni Battista Quadri
+181359579;;;Via Quadri Giovan Battista;Via Giovanni Battista Quadri
+181359580;;;Via Quadri Giovan Battista;Via Giovanni Battista Quadri
+181362762;;;Via Quadri Giovan Battista;Via Giovanni Battista Quadri
+181362763;;;Via Quadri Giovan Battista;Via Giovanni Battista Quadri
+181362765;;;Via Quadri Giovan Battista;Via Giovanni Battista Quadri
+182154333;;;Via Fratelli Lewis;Via Fratelli Levis
+182154335;;;Via Fratelli Lewis;Via Fratelli Levis
+183616975;;;Via Giovanni Battista Pergolesi;Via Giovan Battista Pergolesi
+183768217;;;Via Brocchi Giambattista;Via Giambattista Brocchi
+183790714;;;Via Torino;Viale Torino
+183925221;;;Via Fratelli Bandiera;Viale Fratelli Bandiera
+184077666;;;Via De Ferretti;Via Ferreto de Ferreti
+184080008;;;Strada Padana Verso Verona;Strada Padana verso Verona
+184080009;;;Strada Padana Verso Verona;Strada Padana verso Verona
+184080053;;;Via Capuleti;Via dei Capuleti
+184275395;;;Viale dell'Oreficeria;Via dell'Oreficeria
+184540933;;;Via Vallarsa;Strada di Vallarsa
+188337435;;;Viale 10 Giugno;Viale Dieci Giugno
+188496193;;;Viale Cialdini Enrico;Viale Enrico Cialdini
+188825676;;;Via Vigolo Antonio;Via Antonio Vigolo
+188888622;;;Tomaso Dal Molin;Via Tomaso Dal Molin
+190523104;;;Contra' XX Settembre;Contra' Venti Settembre
+190523107;;;Via IV Novembre;Via Quattro Novembre
+190523108;;;Via IV Novembre;Via Quattro Novembre
+190523109;;;Via IV Novembre;Via Quattro Novembre
+190906643;;;Via Antonio Giotto;Via Giotto
+190909284;;;Viale dello Stadio;Via dello Stadio
+192298722;;;Via del Grande Natale;Via Natale del Grande
+194609525;;;Viale Ragazzi del '99;Via Ragazzi del '99
+194609526;;;Via Quadri Giovan Battista;Via Giovanni Battista Quadri
+194609528;;;Viale Ragazzi del '99;Via Ragazzi del '99
+197493078;;;Via Candia;Via Eleonora Candia
+198222868;;;Viale Massimo D'Azeglio;Viale Massimo d'Azeglio
+198275055;;;Via Alfonso La Marmora;Via Alfonso Lamarmora
+198281758;;;Via Fiume;Viale Fiume
+198281759;;;Via G. Bedin;Via Giacomo Bedin
+198281760;;;Via G. Bedin;Via Giacomo Bedin
+198308341;;;Viale Ragazzi del '99;Via Ragazzi del '99
+198308343;;;Viale Ragazzi del '99;Via Ragazzi del '99
+198308346;;;Viale Ragazzi del '99;Via Ragazzi del '99
+198335932;;;Via C. Scarpa;Via Carlo Scarpa
+198335966;;;Via A. Turra;Via Antonio Turra
+199261061;;;Contrada Pedemuro San Biagio;Contra' Pedemuro San Biagio
+199261062;;;Contrà Pusterla;Contra' Pusterla
+202390033;;;Via SCOLARI Giuseppe;Via Giuseppe Scolari
+207525968;;;Via Tommaso Dal Molin;Via Tomaso Dal Molin
+208495042;;;Viale Ragazzi del '99;Via Ragazzi del '99
+208495043;;;Viale Ragazzi del '99;Via Ragazzi del '99
+208495044;;;Viale Ragazzi del '99;Via Ragazzi del '99
+208495610;;;Via Imperiali Giovanni Battista;Via Giovanni Battista Imperiali
+210202027;;;Via Campiglia Maddalena;Via Maddalena Campiglia
+217959484;;;Via D. Cariolato;Via Domenico Cariolato
+217959485;;;Via D. Cariolato;Via Domenico Cariolato
+217961839;;;Parco via Adenauer;Parco di Via Adenauer
+217961841;;;Parco via Adenauer;Parco di Via Adenauer
+217964437;;;Vicolo Benvenuto De Campesani;Vicolo Benvenuto de Campesani
+218986964;;;Strada Maddalene;Strada delle Maddalene
+219241784;;;Via Lago di Caldiero;Via Lago di Caldaro
+224214832;;;Via Candia;Via Eleonora Candia
+224642038;;;Via G. Ghirotti;Via Gigi Ghirotti
+224642039;;;Via G. Ghirotti;Via Gigi Ghirotti
+224642040;;;Via G. Ghirotti;Via Gigi Ghirotti
+224642041;;;Via G. Ghirotti;Via Gigi Ghirotti
+224642042;;;Via G. Ghirotti;Via Gigi Ghirotti
+224642043;;;Via G. Ghirotti;Via Gigi Ghirotti
+226358660;;;Strada Cimitero di Polegge;Strada del Cimitero di Polegge
+227036236;;;Via Baden Powell;Via Robert Baden Powell
+227291742;;;Contrà Porta Nova;Contra' Porta Nova
+227617731;;;Piazzale Cocchetti Beata Annunciata;Piazzale Beata Annunciata Cocchetti
+227617732;;;Piazzale Cocchetti Beata Annunciata;Piazzale Beata Annunciata Cocchetti
+227617733;;;Piazzale Cocchetti Beata Annunciata;Piazzale Beata Annunciata Cocchetti
+227630297;;;Strada Pizzolati;Strada dei Pizzolati
+227665647;;;Via Girotto Almerigo;Via Almerigo Girotto
+227665648;;;Via Girotto Almerigo;Via Almerigo Girotto
+227665649;;;Via Girotto Almerigo;Via Almerigo Girotto
+227687742;;;Via della Scienza;Viale della Scienza
+227687743;;;Via della Scienza;Viale della Scienza
+227743878;;;Via Palma Il Giovane Jacopo;Via Jacopo Palma il Giovane
+227744151;;;Via Ferreri Zaccaria;Via Zaccaria Ferreri
+227761154;;;Via Regalazzo;Via Alippio Regalazzo
+227762236;;;Via Chiarini G.;Via Giovanni Chiarini
+229110031;;;Via Quadri Giovan Battista;Via Giovanni Battista Quadri
+233154426;;;Levà degli Angeli;Leva' degli Angeli
+237961151;;;Via Serbelloni;Via Gabriele Serbelloni
+240287374;;;Via Vigolo Antonio;Via Antonio Vigolo
+240946968;;;Via S. Ceccato;Via Silvio Ceccato
+246822926;;;Via Ponte del Marchese;Strada Ponte del Marchese
+249191903;;;Viale Leonardo Da Vinci;Viale Leonardo da Vinci
+249191904;;;Viale Leonardo Da Vinci;Viale Leonardo da Vinci
+249193971;;;Viale Risorgimento;Viale Risorgimento Nazionale
+249591279;;;Via Meschinelli Domenico;Via Domenico Meschinelli
+249599641;;;Via Berlendis Francesco;Via Francesco Berlendis
+249603013;;;Via Gasparoni Giovanni;Via Giovanni Gasparoni
+249603014;;;Via Giovanni Da Pedemuro;Via Giovanni da Pedemuro
+249603015;;;Via Giovanni Da Pedemuro;Via Giovanni da Pedemuro
+249603016;;;Via Giovanni Da Pedemuro;Via Giovanni da Pedemuro
+249603741;;;Via D. Cerato;Via Domenico Cerato
+249603742;;;Via G. E. Di Velo;Via Gerolamo Egidio di Velo
+249603743;;;Via Mariani Camillo;Via Camillo Mariani
+249603744;;;Via Pontedera Giulio;Via Giulio Pontedera
+249603745;;;Via Pontedera Giulio;Via Giulio Pontedera
+249605858;;;Via A. Sant'Elia;Via Antonio Sant'Elia
+249605859;;;Via C. Mollino;Via Carlo Mollino
+249605860;;;Via C. Mollino;Via Carlo Mollino
+249605861;;;Via Quadri Giovan Battista;Via Giovanni Battista Quadri
+249605862;;;Via C. Mollino;Via Carlo Mollino
+249605863;;;Via C. Mollino;Via Carlo Mollino
+249606653;;;Via C. Borella;Via Carlo Borella
+249606654;;;Via C. Borella;Via Carlo Borella
+249614328;;;Via F. Vigna;Via Francesco Vigna
+249615844;;;Via G. Gagliardotti;Via Giuseppe Gagliardotti
+249615845;;;Via P. Porto Godi;Via Paolina Porto Godi
+249615941;;;Via E. Zamboni Segato;Via Elisa Zamboni Segato
+249616001;;;Via F. Novello;Via Francesco Novello
+249616002;;;Via F. Novello;Via Francesco Novello
+249624816;;;Via Alfonso La Marmora;Via Alfonso Lamarmora
+249624817;;;Via Alfonso La Marmora;Via Alfonso Lamarmora
+249634302;;;Via Brigata Val Chiese;Via Battaglione Val Chiese
+249634306;;;Via Moneta Ernesto Teodoro;Via Ernesto Teodoro Moneta
+249634307;;;Via Moneta Ernesto Teodoro;Via Ernesto Teodoro Moneta
+249634323;;;Via Lanza;Via Giovanni Lanza
+249634325;;;Via Lanza;Via Giovanni Lanza
+249634332;;;Via Lanza;Via Giovanni Lanza
+249638981;;;Via De Ferretti;Via Ferreto de Ferreti
+249638982;;;Via De Ferretti;Via Ferreto de Ferreti
+249638984;;;Via Franchetti Alberto;Via Alberto Franchetti
+249638987;;;Via T. Albinoni;Via Tomaso Albinoni
+249638988;;;Via T. Albinoni;Via Tomaso Albinoni
+249641096;;;Piazzetta mons. Giuseppe Lorenzon;Piazzetta monsignor Giuseppe Lorenzon
+249646950;;;Viale dell'Oreficeria;Via dell'Oreficeria
+249646951;;;Viale dell'Oreficeria;Via dell'Oreficeria
+249646952;;;Via Siderugia;Viale della Siderurgia
+249646953;;;Via Siderugia;Viale della Siderurgia
+249646954;;;Via Siderugia;Viale della Siderurgia
+249647070;;;Largo Wolfgang Goethe;Largo Volfango Goethe
+254044392;;;Strada Costabissara;Strada di Costabissara
+254044393;;;Strada Costabissara;Strada di Costabissara
+254046959;;;Contra' Canneti Francesco;Contra' Francesco Canneti
+254046960;;;Contrada Vescovado;Contra' Vescovado
+254046961;;;Contrà Cesare Battisti;Via Cesare Battisti
+254046962;;;Contrà San Francesco Vecchio;Contra' San Francesco Vecchio
+254046963;;;Corso Palladio;Corso Andrea Palladio
+254871182;;;Corso Palladio;Corso Andrea Palladio
+255040561;;;Contrà Riale;Contra' Riale
+255047048;;;Contrada Porti;Contra' Porti
+255047053;;;Corso Palladio;Corso Andrea Palladio
+256553645;;;Viale dello Stadio;Via dello Stadio
+259337985;;;Viale Cialdini Enrico;Viale Enrico Cialdini
+259337986;;;Viale Cialdini Enrico;Viale Enrico Cialdini
+259940863;;;Strada Ca' Balbi;Strada di Ca' Balbi
+259940864;;;Strada Ca' Balbi;Strada di Ca' Balbi
+260245165;;;Via SCOLARI Giuseppe;Via Giuseppe Scolari
+262826034;;;Via Ponte del Marchese;Strada Ponte del Marchese
+262826035;;;Via Ponte del Marchese;Strada Ponte del Marchese
+263561916;;;Via Marosticana;Strada Marosticana
+263561919;;;Via Marosticana;Strada Marosticana
+263684236;;;Via Ponte del Marchese;Strada Ponte del Marchese
+271902185;;;Via Col. Alessandro Avogadro Di Casanova;Via Alessandro Avogadro Casanova
+271924615;;;Viale 10 Giugno;Viale Dieci Giugno
+272596842;;;Contrà Vittorio Veneto;Contra' Vittorio Veneto
+272910897;;;Contrà Santa Corona;Contra' Santa Corona
+272910898;;;Contrà do Rode;Contra' Do Rode
+272910900;;;Corso Palladio;Corso Andrea Palladio
+272910901;;;Piazzetta di San Giacomo;Stradella San Giacomo
+273473404;;;Contrà delle Chioare;Contra' delle Chioare
+273483026;;;Contrada Mure S. Rocco;Contra' Mure San Rocco
+273483027;;;Contrà Mure Carmini;Contra' Mure Carmini
+273497252;;;Stradella del teatro Olimpico;Stradella del Teatro Olimpico
+273497253;;;Stradello San Marcello;Stradella San Marcello
+273500639;;;Contrada Pedemuro San Biagio;Contra' Pedemuro San Biagio
+273599937;;;Via Marosticana;Strada Marosticana
+273826878;;;Largo Wolfgang Goethe;Largo Volfango Goethe
+273826879;;;Largo Wolfgang Goethe;Largo Volfango Goethe
+283345812;;;Via C. Mollino;Via Carlo Mollino
+283345813;;;Via Pontedera Giulio;Via Giulio Pontedera
+283345939;;;Via C. Scarpa;Via Carlo Scarpa
+287200970;;;Strada Lobia;Strada di Lobia
+288010902;;;Strada Lobia;Strada di Lobia
+288068254;;;Contrada Pedemuro San Biagio;Contra' Pedemuro San Biagio
+289858054;;;Via Tre Scalini;Stradella Tre Scalini
+291113467;;;Corso Palladio;Corso Andrea Palladio
+291162203;;;Via Caimpenta;Contra' della Caimpenta
+291882868;;;Via Fratelli Chiodi;Via Fioralpino Chiodi
+291882869;;;Via Fratelli Chiodi;Via Fioralpino Chiodi
+293957495;;;Via Emanuele Filiberto;Via Emanuele Filiberto di Savoia
+295653543;;;Contra' Cabianca Jacopo;Contra' Jacopo Cabianca
+296527048;;;Via della Scienza;Viale della Scienza
+296527049;;;Via della Scienza;Viale della Scienza
+299586530;;;Via Tommaso Albinoni;Via Tomaso Albinoni
+304009664;;;Via B. Pajello;Via Bartolomeo Pajello
+304921206;;;Corso Palladio;Corso Andrea Palladio
+305547165;;;Pista Ciclabile Riviera Berica "R. Casarotto";Pista Ciclabile Renato Casarotto
+305547168;;;Viale 10 Giugno;Viale Dieci Giugno
+307847734;;;Viale dell'Oreficeria;Via dell'Oreficeria
+307847735;;;Viale dell'Oreficeria;Via dell'Oreficeria
+313741908;;;Via Marosticana;Strada Marosticana
+318056141;;;Via Catalani A.;Via Alfredo Catalani
+318056532;;;Via Fratelli Chiodi;Via Fioralpino Chiodi
+324767235;;;Via Zuccato Emanuele;Via Emanuele Zuccato
+327119085;;;Via C. Colombo;Via Cristoforo Colombo
+327119088;;;Via Guglielmo Pecori Giraldi;Viale Guglielmo Pecori Giraldi
+327119089;;;Via Guglielmo Pecori Giraldi;Viale Guglielmo Pecori Giraldi
+327131965;;;Strada Costabissara;Strada di Costabissara
+327131966;;;Via Ponte del Marchese;Strada Ponte del Marchese
+327131967;;;Via Ponte del Marchese;Strada Ponte del Marchese
+327791234;;;Viale Cialdini Enrico;Viale Enrico Cialdini
+329171320;;;Via De Ferretti;Via Ferreto de Ferreti
+329933818;;;Contrà do Rode;Contra' Do Rode
+329933819;;;Contrà do Rode;Contra' Do Rode
+333260987;;;Via Vecchia Ferriera;Via vecchia Ferriera
+334174565;;;Pista ciclo-pedonale di via del Mercato Nuovo;Pista ciclo-pedonale di Via del Mercato Nuovo
+334174571;;;Pista ciclo-pedonale di via del Mercato Nuovo;Pista ciclo-pedonale di Via del Mercato Nuovo
+334606626;;;Via G. Vico;Via Giambattista Vico
+334606627;;;Via B. Pajello;Via Bartolomeo Pajello
+334606628;;;Via B. Pajello;Via Bartolomeo Pajello
+334606631;;;Via G. Vico;Via Giambattista Vico
+334606632;;;Via B. Pajello;Via Bartolomeo Pajello
+334910570;;;Pista ciclo-pedonale di via del Mercato Nuovo;Pista ciclo-pedonale di Via del Mercato Nuovo
+334910571;;;Pista ciclo-pedonale di via del Mercato Nuovo;Pista ciclo-pedonale di Via del Mercato Nuovo
+335204443;;;Pista ciclabile via Luzzatti;Pista ciclabile di Via Luzzatti
+335204444;;;Pista ciclo-pedonale di via Luigi Luzzatti;Pista ciclo-pedonale di Via Luigi Luzzatti
+336983511;;;Pista ciclo-pedonale di via Gioacchino Rossini;Pista ciclo-pedonale di Via Gioacchino Rossini
+336983512;;;Pista ciclo-pedonale di via Gioachino Rossini;Pista ciclo-pedonale di Via Gioachino Rossini
+338006818;;;Via Vigolo Antonio;Via Antonio Vigolo
+338006819;;;Via Vigolo Antonio;Via Antonio Vigolo
+343199222;;;Via De Ferretti;Via Ferreto de Ferreti
+344602602;;;Pista ciclo-pedonale di via T. Albinoni.;Pista ciclo-pedonale di Via Tomaso Albinoni
+344602603;;;Pista ciclo-pedonale di via Tommaso Albinoni;Pista ciclo-pedonale di Via Tommaso Albinoni
+344648084;;;Pista ciclo-pedonale di via Tommaso Albinoni;Pista ciclo-pedonale di Via Tommaso Albinoni
+348541641;;;Pista ciclo-pedonale di via Vincenzo Bellini;Pista ciclo-pedonale di Via Vincenzo Bellini
+355798727;;;Via B. Trebazio;Via Bernardino Trebazio
+361758663;;;Strada di Setteca';Strada di Settecà
+384901205;;;Viale Risorgimento;Viale Risorgimento Nazionale
+384901206;;;Viale Risorgimento;Viale Risorgimento Nazionale
+398325933;;;Via Vittime Civili di guerra;Via Vittime Civili di Guerra
+398325934;;;Via Vittime Civili di guerra;Via Vittime Civili di Guerra
+400303528;;;Via Umberto Pototschnig;Via Giorgio Pototschnig
+400303529;;;Via Umberto Pototschnig;Via Giorgio Pototschnig
+410353611;;;Vialetto F.M. Mistrorigo;Vialetto Federico Maria Mistrorigo
+413127430;;;Pista Ciclabile Casarotto Renato;Pista Ciclabile Renato Casarotto
+414004154;;;Via Tommaso Dal Molin;Via Tomaso Dal Molin
+414157777;;;Piazza XX Settembre;Piazza Venti Settembre
+414157780;;;Contra' XX Settembre;Contra' Venti Settembre
+414157781;;;Contra' XX Settembre;Contra' Venti Settembre
+418113945;;;Via Generale Giacomo Medici;Via Giacomo Medici
+427603849;;;Contrada della Misericordia;Contra' della Misericordia
+430401958;;;Viale dello Stadio;Via dello Stadio
+430401959;;;Viale dello Stadio;Via dello Stadio
+430592877;;;Via Col. Alessandro Avogadro Di Casanova;Via Alessandro Avogadro Casanova
+430607252;;;Via Col. Alessandro Avogadro Di Casanova;Via Alessandro Avogadro Casanova
+430607253;;;Via Col. Alessandro Avogadro Di Casanova;Via Alessandro Avogadro Casanova
+430614141;;;Via Quadri Giovan Battista;Via Giovanni Battista Quadri
+438238837;;;Strada Ca' Balbi;Strada di Ca' Balbi
+438238838;;;Strada Ca' Balbi;Strada di Ca' Balbi
+438238840;;;Via Bevilacqua Antonio;Via Antonio Bevilacqua
+438238841;;;Via Piovene Cesare;Via Cesare Piovene
+438238842;;;ciclabile Dalla Chiesa Generale N. Carlo Alberto;Ciclabile di Via generale Carlo Alberto dalla Chiesa
+438238843;;;Via Maurisio Gerardo;Via Gerardo Maurisio
+438238844;;;Via Generale Carlo Alberto Dalla Chiesa;Via generale Carlo Alberto dalla Chiesa
+438238850;;;Viale dello Stadio;Via dello Stadio
+438255261;;;Pista Ciclabile Riviera Berica "R. Casarotto";Pista Ciclabile Renato Casarotto
+440298179;;;Contrà delle Fontanelle;Contra' delle Fontanelle
+444620774;;;Via Mantovani Ferdinando Maria;Via Ferdinando Maria Mantovani
+
+DELETIONS LIST
+WAY_ID;ADDR:STREET_old;ADDR:STREET_new;NAME_old;NAME_new
+26168290;;;Laghetto - Polegge;
+100735846;;;ciclabile;
+100735849;;;ciclabile;
+165240263;;;Rotatoria;
+198281755;;;-;
+218988082;;;Civico nr. 6;
+239803005;;;accesso oratorio, parco giochi e cinema teatro S. Marco;
+239803181;;;accesso emergenza parco S. Marco;
+335757394;;;Civico nr. 6;
+335757396;;;Civico nr. 6;
+335757397;;;Civico nr. 6;
