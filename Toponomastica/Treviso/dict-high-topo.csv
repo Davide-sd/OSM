@@ -1,0 +1,975 @@
+﻿DEBUG;NOME_VIA;NOME_NORM;DIST
+1;Porta Calvi;Porta Calvi;1.0
+1;Via Dotti;Via Dotti;1.0
+0;Via del Gelso;Via del Gelso;1.0
+0;Via Giovanni Zaniol;Via Giovanni Zaniol;1.0
+0;Piazza Santa Maria Maggiore;Piazza Santa Maria Maggiore;1.0
+2b;Via Gian Giacomo Felissent;Viale Gian Giacomo Felissent;0.866666666667
+0;Via Primo Visentin;Via Primo Visentin;1.0
+2b;Via dei Mille;Viale dei Mille;0.866666666667
+2;Strada Ghirada;Via Ghirada;
+0;Via Pietro Bembo;Via Pietro Bembo;1.0
+0;Via Antonio Canova;Via Antonio Canova;1.0
+0;Via Santa Chiara;Via Santa Chiara;1.0
+0;Via della Liberazione;Via della Liberazione;1.0
+2;Accesso Edificio 8;Accesso Edificio 8;
+0;Via Francesco Bomben;Via Francesco Bomben;1.0
+1;Vicolo Orsoline;Vicolo Orsoline;1.0
+0;Via Salvo D'Acquisto;Via Salvo d'Acquisto;1.0
+0;Vicolo del Gallo;Vicolo del Gallo;1.0
+2;Via Tappi;Strada dei Tappi;
+0;Via Giovanni Masutto;Via Giovanni Masutto;1.0
+1;Via Padova;Via Padova;1.0
+0;Via degli Scaligeri;Via degli Scaligeri;1.0
+1;Via Marini;Via Giovanni Marini;0.816496580928
+2b;Via Vecchia Quinto;Via Vecchia di Quinto;0.611111111111
+1;Via Chimenton;Via Costante Chimenton;0.816496580928
+1;Via Brandolino Brandolini d'Adda;Via Brandolino Brandolini d'Adda;1.0
+1;Vicolo Mandruzzato;Vicolo Giovan Battista Mandruzzato;0.707106781187
+0;Vicolo San Leonardo;Vicolo San Leonardo;1.0
+1;Via Pastrengo;Via Pastrengo;1.0
+0;Via Francesco Benaglio;Via Francesco Benaglio;1.0
+2b;Strada Comunale Corti;Strada comunale delle Corti;0.55
+0;Via Alfredo Oriani;Via Alfredo Oriani;1.0
+0;Vicolo Francesco Gera;Vicolo Francesco Gera;1.0
+0;Via Sant'Agata;Via Sant'Agata;1.0
+0;Via Luigi Meneghetti;Via Luigi Meneghetti;1.0
+2b;Via Scipione Fapanni;Via Francesco Scipione Fapanni;0.60119047619
+0;Via Gaetano Donizetti;Via Gaetano Donizetti;1.0
+1;Via Zara;Via Zara;1.0
+2b;Via Dall'Ongaro;Via Francesco dall'Ongaro;0.481481481481
+0;Via Cittadella della Salute;Via Cittadella della Salute;1.0
+0;Via Medaglie d'Oro;Via Medaglie d'Oro;1.0
+0;Via Tommaso Da Modena;Via Tommaso da Modena;1.0
+1;Viale Burchiellati;Viale Bartolomeo Burchiellati;0.816496580928
+0;Via Plinio il Vecchio;Via Plinio il Vecchio;1.0
+1;Via Concordia;Via Concordia;1.0
+1;Piazzale Michelangelo;Piazzale Michelangelo;1.0
+0;Via Cro' Durigon;Via Cro' Durigon;1.0
+1;Via Chiarano;Via Chiarano;1.0
+1;Via Bainsizza;Via Bainsizza;1.0
+0;Via Fortunato Venanzio;Via Fortunato Venanzio;1.0
+0;Via Trentatreesimo Reggimento Artiglieria;Via Trentatreesimo Reggimento Artiglieria;1.0
+1;Via Fonderia;Via Fonderia;1.0
+0;Via Giuseppe Parini;Via Giuseppe Parini;1.0
+1;Via Bianchini;Via Vincenzo Bianchini;0.816496580928
+0;Via della Storga;Via della Storga;1.0
+0;Via San Zeno;Via San Zeno;1.0
+0;Via dei Brilli;Via dei Brilli;1.0
+0;Via Fratelli Testolini;Via Fratelli Testolini;1.0
+0;Via Lodovico Fiumicelli;Via Lodovico Fiumicelli;1.0
+0;Via dei Lombardi;Via dei Lombardi;1.0
+1;Via Sabotino;Via Sabotino;1.0
+0;Via San Liberale;Via San Liberale;1.0
+1;Via Dalmazia;Via Dalmazia;1.0
+1;Via G. Antonini;Via Giacomo Antonini;0.666666666667
+2a;Via Piave;Via Piave;1.0
+0;Via Lorenzo Bregno;Via Lorenzo Bregno;1.0
+0;Via dei Gredi;Via dei Gredi;1.0
+1;Vicolo Palestro;Vicolo Palestro;1.0
+1;Viale 4 Novembre;Viale Quattro Novembre;0.666666666667
+1;Via Grave Papadopoli;Via Grave di Papadopoli;0.866025403784
+0;Via Pietro di Dante;Via Pietro di Dante;1.0
+1;Via Pescatori;Via Pescatori;1.0
+1;Via Orsoline;Via Orsoline;1.0
+1;Vicolo 4 Novembre;Vicolo Quattro novembre;0.666666666667
+1;Via Campania;Via Campania;1.0
+1;Via Noalese;Via Noalese;1.0
+0;Via Priamo Tron;Via Priamo Tron;1.0
+0;Via Luigi Carrer;Via Luigi Carrer;1.0
+2b;Viale Alfredo Oriani;Via Alfredo Oriani;0.866666666667
+0;Via San Lazzaro;Via San Lazzaro;1.0
+1;Via Cavini;Via Cavini;1.0
+1;Borgo Furo di Santa Bona;Borgo Furo di Santa Bona;1.0
+0;Via Antonio Bellucci;Via Antonio Bellucci;1.0
+0;Via dei Dall'Oro;Via dei Dall'Oro;1.0
+1;Via Zago;Via Emilio Zago;0.816496580928
+2;Strada Stradelle;Via Stradelle;
+2a;Via San Camillo de Lellis;Via San Camillo de Lellis;1.0
+0;Via Don Luigi Sturzo;Via don Luigi Sturzo;1.0
+0;Piazza Silvio Trentin;Piazza Silvio Trentin;1.0
+1;Via Olanda;Via Olanda;1.0
+1;Porta Piave;Porta Piave;1.0
+1;Via Ferrarese;Via Ferrarese;1.0
+1;Via Sartori;Via Luigi Sartori;0.816496580928
+0;Via Gian Maria Ciassi;Via Gian Maria Ciassi;1.0
+0;Via Tito Garzoni;Via Tito Garzoni;1.0
+1;Via L. Cattarin;Via Luigi Cattarin;0.666666666667
+2a;Via Conegliano;Via Conegliano;1.0
+0;Via della Quercia;Via della Quercia;1.0
+1;Via Palestro;Via Palestro;1.0
+1;Via Casette;Via Casette;1.0
+1;Piazza Duomo;Piazza del Duomo;0.816496580928
+1;Passerella Onigo;Passerella Onigo;1.0
+2b;Via Giovanni Comisso;Via Giovanni Comisso;0.660185185185
+1;Via Panigai;Via Panigai;1.0
+0;Via Giovanni Battista Verci;Via Giovanni Battista Verci;1.0
+1;Via Venzone;Via Venzone;1.0
+1;Via Belgio;Via Belgio;1.0
+2;Piazza Ancillotto;Piazza Giannino Ancilotto;
+0;Via Antonio Scarpa;Via Antonio Scarpa;1.0
+0;Via Alvise Semenzi;Via Alvise Semenzi;1.0
+0;Vicolo Isola di Mezzo;Vicolo Isola di Mezzo;1.0
+1;Via Portobuffolè;Via Portobuffolè;1.0
+0;Via Cal di Breda;Via Cal di Breda;1.0
+2;Porta Caccianiga;Varco Antonio Caccianiga;
+0;Via Luigi Chiereghin;Via Luigi Chiereghin;1.0
+0;Viale Brigata Marche;Viale Brigata Marche;1.0
+0;Viale della Serenissima;Viale della Serenissima;1.0
+1;Via Tommasini;Via Tommasini;1.0
+1;Via Pastori;Via Pastori;1.0
+0;Via San Giovanni Bosco;Via San Giovanni Bosco;1.0
+0;Via Bruno Lattes;Via Bruno Lattes;1.0
+0;Via San Giuseppe;Via San Giuseppe;1.0
+0;Via Francesco Petrarca;Via Francesco Petrarca;1.0
+0;Via Oreste Battistella;Via Oreste Battistella;1.0
+1;Via Monfalcone;Via Monfalcone;1.0
+1;Via Isonzo;Via Isonzo;1.0
+2b;Via Daniele Montenumici;Via Daniele Monterumici;0.963636363636
+1;Via Zorzi;Via Silvio Zorzi;0.816496580928
+0;Via Arnaldo Fusinato;Via Arnaldo Fusinato;1.0
+0;Piazza della Dogana;Piazza della Dogana;1.0
+2b;Via Vicinale San Vitale;Via vicinale di San Vitale;0.825
+1;Piazzetta Benedetto XI;Piazzetta Benedetto undicesimo;0.666666666667
+2a;Via Monsignor Giovanni D'Alessi;Via Giovanni d'Alessi;0.894427191
+1;Via Amalfi;Via Amalfi;1.0
+1;Borgo Cavour;Borgo Cavour;1.0
+1;Via Tezzone;Via Tezzone;1.0
+0;Vicolo Sant'Agostino;Vicolo Sant'Agostino;1.0
+1;Vicolo Panciera;Vicolo Panciera;1.0
+0;Via Gerolamo Aleandro;Via Gerolamo Aleandro;1.0
+1;Via A. Radaelli;Via Alberto Radaelli;0.666666666667
+0;Vicolo San Bartolomeo;Vicolo San Bartolomeo;1.0
+0;Via Don Nicola Mazza;Via don Nicola Mazza;1.0
+2b;Via Giovanni Battista Piazzetta;Via Giovan Battista Piazzetta;0.95
+0;Via Luigi Stefanini;Via Luigi Stefanini;1.0
+0;Via delle Bottere;Via delle Bottere;1.0
+1;Borgo Venezia;Borgo Venezia;1.0
+0;Via delle Fontanelle;Via delle Fontanelle;1.0
+2b;Vicolo dei Morer;Vicolo del Morer;0.777777777778
+0;Via Francesco Foscari;Via Francesco Foscari;1.0
+0;Galleria della Torre;Galleria della Torre;1.0
+1;Via Meneghini;Via don Gaetano Meneghini;0.707106781187
+2a;Via D. Ricci;Via Domenico Ricci;0.816496580928
+1;Vicolo 20 Settembre;Vicolo Venti Settembre;0.666666666667
+0;Via Jacopo Bernardi;Via Jacopo Bernardi;1.0
+2a;Via delle Zecchette;Via Zecchette;0.816496580928
+1;Via Dosson;Via Dosson;1.0
+1;Viale Michelangelo;Viale Michelangelo;1.0
+1;Via Eraclea;Via Eraclea;1.0
+0;Riviera Santa Margherita;Riviera Santa Margherita;1.0
+0;Via Pompilio Sudessi;Via Pompilio Sudessi;1.0
+0;Via Girolamo Bologni;Via Girolamo Bologni;1.0
+1;Riviera Garibaldi;Riviera Giuseppe Garibaldi;0.816496580928
+0;Via Luigi Zangrando;Via Luigi Zangrando;1.0
+0;Via Eugenio Rota;Via Eugenio Rota;1.0
+0;Lungosile Antonio Mattei;Lungosile Antonio Mattei;1.0
+0;Via Aldo Fantina;Via Aldo Fantina;1.0
+1;Via Pisa;Via Pisa;1.0
+0;Via degli Alpini;Via degli Alpini;1.0
+1;Via Forzetta;Via Oliviero Forzetta;0.816496580928
+1;Rivale Castelvecchio;Rivale Castelvecchio;1.0
+0;Via Torre D'Orlando;Via Torre d'Orlando;1.0
+2a;Vicolo Siora Andriana del Vescovo;Vicolo Siora Andriana del Vescovo;1.0
+0;Via San Francesco;Via San Francesco;1.0
+0;Via Fra' Giocondo;Via fra' Giocondo;1.0
+0;Via Leonardo Loredan;Via Leonardo Loredan;1.0
+0;Via Antonio Vivaldi;Via Antonio Vivaldi;1.0
+1;Via Muri;Via Muri;1.0
+0;Via Ambrogio Rigamonti;Via Ambrogio Rigamonti;1.0
+0;Via Filippo Brunelleschi;Via Filippo Brunelleschi;1.0
+0;Via Castello d'Amore;Via Castello d'Amore;1.0
+2a;Via San Martino Solferino;Via Solferino e San Martino;0.866025403784
+1;Via Avogari;Via Avogari;1.0
+0;Via del Termine;Via del Termine;1.0
+0;Via dei Vegri;Via dei Vegri;1.0
+0;Via Luigi Einaudi;Via Luigi Einaudi;1.0
+1;Via Boccaccio;Via Giovanni Boccaccio;0.816496580928
+0;Via Francesco da Milano;Via Francesco da Milano;1.0
+1;Piazza Garibaldi;Piazza Giuseppe Garibaldi;0.816496580928
+0;via Pietro Buratti;Via Pietro Buratti;1.0
+1;Via Verona;Via Verona;1.0
+1;Vicolo Concordia;Vicolo Concordia;1.0
+2b;Via Antonia di Alessandro Maurocordato;Via Alessandro Maurocordato Antoniadi;0.955555555556
+2b;Vicolo 7 Aprile;Vicolo Sette Aprile;0.0
+0;Via Edmondo Matter;Via Edmondo Matter;1.0
+1;Vicolo Cavini;Vicolo Cavini;1.0
+0;Vicolo Santa Margherita;Vicolo Santa Margherita;1.0
+2;Porta Manzoni;Varco San Bartolomeo;
+0;Via Antonio Gramsci;Via Antonio Gramsci;1.0
+0;Vicolo Bivio Motta;Vicolo Bivio Motta;1.0
+1;Via Storta;Via Storta;1.0
+1;Vicolo Fagarè;Vicolo Fagarè;1.0
+1;Via Steffani;Via Agostino Steffani;0.816496580928
+0;Via Monte Santo;Via Monte Santo;1.0
+0;Viale Frà Giocondo;Viale fra' Giocondo;1.0
+1;Via Pinelli;Via Luigi Pinelli;0.816496580928
+0;Via Giuseppe Benzi;Via Giuseppe Benzi;1.0
+1;Via Martini;Via Arturo Martini;0.816496580928
+0;Via dei Moncini;Via dei Moncini;1.0
+0;Via Nicola di Fulvio;Via Nicola di Fulvio;1.0
+0;Via Sernaglia della Battaglia;Via Sernaglia della Battaglia;1.0
+0;Via San Girolamo Emiliani;Via San Girolamo Emiliani;1.0
+1;Via Everardo;Via Everardo;1.0
+0;Via Cacciatori del Sile;Via Cacciatori del Sile;1.0
+0;Via Antonio Rosmini;Via Antonio Rosmini;1.0
+2;Via Canizzano;Strada Canizzano;
+2;Strada Spigariola;Via Spigariola;
+1;Via Ca' Sugana;Via Luigi Sugana;0.666666666667
+1;Via Cittanova;Via Cittanova;1.0
+0;Via Scipio Slataper;Via Scipio Slataper;1.0
+0;Via Toti dal Monte;Via Toti dal Monte;1.0
+1;Via Selvana;Via Selvana;1.0
+0;Via delle Caselle;Via delle Caselle;1.0
+1;Piazzale Costituzione;Piazzale Costituzione;1.0
+0;Via Sant'Anna;Via Sant'Anna;1.0
+1;Via Michieli;Via Adriano Augusto Michieli;0.707106781187
+1;Ponte delle Università;Ponte delle Università;0.666666666667
+0;Via Lorenzo da Ponte;Via Lorenzo da Ponte;1.0
+1;Via Pasubio;Via Pasubio;1.0
+1;Via Risorgimento;Via Risorgimento;1.0
+1;Via Battistel;Via Agostino Battistel;0.816496580928
+0;Via Caduti sul Lavoro;Via Caduti sul Lavoro;1.0
+0;Viale Giuseppe Verdi;Viale Giuseppe Verdi;1.0
+0;Via Tiziano Vecellio;Via Tiziano Vecellio;1.0
+0;Via Francesco Erizzo;Via Francesco Erizzo;1.0
+0;Vicolo Paolo Veronese;Vicolo Paolo Veronese;1.0
+1;Via Rolandello;Via Rolandello;1.0
+2b;Via San Vitale;Via San Vitale;0.825
+0;Via Teresa Menghi;Via Teresa Menghi;1.0
+2a;Via Montello;Via Montello;1.0
+2b;Via Santa Bona;Via Santa Bona Nuova;0.688888888889
+0;Via del Daino;Via del Daino;1.0
+0;Via le Canevare;Via Le Canevare;1.0
+0;Vicolo Sebastiano Venier;Vicolo Sebastiano Venier;1.0
+0;Vicolo Marco Polo;Vicolo Marco Polo;1.0
+0;Via Martiri della Libertà;Via Martiri della Libertà;1.0
+0;Via Andrea Gritti;Via Andrea Gritti;1.0
+0;Strada di San Pelaio;Strada di San Pelaio;1.0
+0;Via 7 Aprile 1944;Via Sette Aprile;1.0
+2;Via Giuriati;Via Giuriati;
+0;Stradella Interna B;Stradella Interna B;1.0
+1;Via Ghirada;Via Ghirada;1.0
+2a;Via Collalto;Via Collalto;1.0
+0;Strada dei Biscari;Strada dei Biscari;1.0
+1;Via A. de Fantis;Via Antonio de Fantis;0.75
+2b;Via Vittorio Veneto;Viale Vittorio Veneto;0.866666666667
+0;Via degli Stretti;Via degli Stretti;1.0
+1;Via Biscaro;Via Gerolamo Biscaro;0.816496580928
+0;Via Giovanni Battista Ramusio;Via Giovanni Battista Ramusio;1.0
+1;Via Oderzo;Via Oderzo;1.0
+2b;Via Francesco Mariapreti;Via Francesco Maria Preti;0.657142857143
+2;Passeggiata mura;DELETE;
+0;Via Jacopo Riccati;Via Jacopo Riccati;1.0
+0;Via Marcello Filosseno;Via Marcello Filosseno;1.0
+0;Via Zenson Di Piave;Via Zenson di Piave;1.0
+1;Via Calzavara;Via Ernesto Calzavara;0.816496580928
+1;Vicolo Venier;Vicolo Sebastiano Venier;0.816496580928
+0;Via Vittorio Bachelet;Via Vittorio Bachelet;1.0
+0;Via Toni Benetton;Via Toni Benetton;1.0
+0;Viale Guglielmo Oberdan;Viale Guglielmo Oberdan;1.0
+2b;Piazza della Università;Piazza dell'Università;0.744318181818
+1;Vicolo Campana;Vicolo Campana;1.0
+2a;Vicolo Santa Maria dei Battuti;Vicolo Santa Maria dei Battuti;1.0
+0;Via Bernardino Tomitano;Via Bernardino Tomitano;1.0
+0;Via Ada Negri;Via Ada Negri;1.0
+0;Via Massimo d'Azeglio;Via Massimo d'Azeglio;1.0
+0;Strada Sant'Agnese;Strada Sant'Agnese;1.0
+0;Via Guglielmo Marconi;Via Guglielmo Marconi;1.0
+1;Via Pozzobon;Via Giovanni Pozzobon;0.816496580928
+0;Via Tre Venezie;Via Tre Venezie;1.0
+1;Via Pavan;Via Antonio Pavan;0.816496580928
+0;Via Rosa Zalivani;Via Rosa Zalivani;1.0
+1;Vicolo Noalese;Vicolo Noalese;1.0
+1;Via Fogazzaro;Via Antonio Fogazzaro;0.816496580928
+2b;Via Pietro Andrea Saccardo;Via Pier Andrea Saccardo;0.922222222222
+1;Via Paludi;Via Paludi;1.0
+0;Viale della Repubblica;Viale della Repubblica;1.0
+1;Via Ronchese;Via Angelo Ronchese;0.816496580928
+0;Via Gruppo Conegliano;Via Gruppo Conegliano;1.0
+0;Via del Comune;Via del Comune;1.0
+0;Via Pietro D'Asolo;Via Pietro d'Asolo;1.0
+1;Via Fiumicelli;Via Lodovico Fiumicelli;0.816496580928
+2;Via G.B.Marchiori;Via Giovanni Battista Marchiori;
+1;Via Ruzzante;Via Ruzzante;1.0
+1;Viale Orleans;Viale Orleans;1.0
+0;Via Luigi Borro;Via Luigi Borro;1.0
+2b;Strada delle Zecchette;Via Zecchette;0.297407407407
+0;Piazza del Quartiere Latino;Piazza del Quartiere Latino;1.0
+0;Via Luigi Gasparinetti;Via Luigi Gasparinetti;1.0
+0;Corso del Popolo;Corso del Popolo;1.0
+1;Via Turazza;Via Quirico Turazza;0.816496580928
+0;Via Sant'Artemio;Via Sant'Artemio;1.0
+2;Via Feltrina;Strada Feltrina;
+0;Via Cavalleggeri di Treviso;Via Cavalleggeri di Treviso;1.0
+0;Porta Carlo Alberto;Porta Carlo Alberto;1.0
+0;Vicolo del Vento;Vicolo del Vento;1.0
+0;Vicolo Sant'Antonino A;Vicolo Sant'Antonino A;1.0
+0;Ponte de Pria;Ponte de Pria;1.0
+0;Vicolo Sant'Antonino C;Vicolo Sant'Antonino C;1.0
+2;Accesso Edificio 4;Accesso Edificio 4;
+2;Accesso Edificio 3;Accesso Edificio 3;
+2b;Via Cà Zenobio;Strada di Ca' Zenobio;0.666666666667
+2b;Strada di Mure;Via Mure;0.555555555556
+0;Via Generale Antonio Cantore;Via generale Antonio Cantore;1.0
+0;Via Umberto Saba;Via Umberto Saba;1.0
+2;Accesso Edificio 9;Accesso Edificio 9;
+0;Vicolo Castello d'Amore;Vicolo Castello d'Amore;1.0
+0;Via Teodoro de lellis;Via Teodoro de Lellis;1.0
+1;Via Tripolitania;Via Tripolitania;1.0
+1;Via Coghetto;Via Medoro Coghetto;0.816496580928
+0;Via Panfilo Castaldi;Via Panfilo Castaldi;1.0
+1;Borgo Cavalli;Borgo Cavalli;1.0
+1;Via Legnano;Via Legnano;1.0
+2;Via Galletto;Strada del Galletto;
+0;Via Girolamo da Treviso;Via Girolamo da Treviso;1.0
+0;Via Sordello da Goito;Via Sordello da Goito;1.0
+1;Via Roncole;Via Roncole;1.0
+0;Via Ospedale Provinciale;Via Ospedale Provinciale;1.0
+2;Via Baccaruzzi;Via Francesco Beccaruzzi;
+1;Via Umbria;Via Umbria;1.0
+1;Via Castelmenardo;Via Castelmenardo;1.0
+1;Borgo Mestre;Borgo Mestre;1.0
+1;Via Botteniga;Via Botteniga;1.0
+0;Viale San Marco;Viale San Marco;1.0
+0;Via Tito Livio;Via Tito Livio;1.0
+0;Via Andrea Mantegna;Via Andrea Mantegna;1.0
+0;Via Generale Alessandro Guidotti;Via generale Alessandro Guidotti;1.0
+2b;Via del Mozzato;Strada del Mozzato;0.688888888889
+0;Viale Alcide De Gasperi;Viale Alcide De Gasperi;1.0
+1;Via Fossaggera;Via Fossaggera;1.0
+1;Via Capponi;Via Nicolò Capponi;0.816496580928
+0;Via Sant'Antonino;Via Sant'Antonino;1.0
+0;Via Don Giovanni Favaretto;Via don Giovanni Favaretto;1.0
+0;Via Gioacchino Rossini;Via Gioacchino Rossini;1.0
+1;Via Asiago;Via Asiago;1.0
+1;Vicolo Barberia;Vicolo Barberia;1.0
+1;Via Inghilterra;Via Inghilterra;1.0
+0;Bastioni San Paolo;Bastioni San Paolo;1.0
+2b;Piazza San Pio X;Piazza San Pio decimo;0.722222222222
+2;Treviso Mare;Treviso Mare;
+0;Via Sante Zanon;Via Sante Zanon;1.0
+1;Via Pola;Via Pola;1.0
+2;Vicolo Firenze;Via Firenze;
+2b;Via Giuseppe Bindoni;Via Giuseppe e Vincenzo Bindoni;0.67619047619
+0;Via Daniele Manin;Via Daniele Manin;1.0
+1;Via Zermanese;Via Zermanese;1.0
+0;Via Antonio Dal Legname;Via Antonio dal Legname;1.0
+1;Via Irlanda;Via Irlanda;1.0
+0;Via Gino Rocca;Via Gino Rocca;1.0
+1;Via Dogali;Via Dogali;1.0
+2;Via Durant;Via Enrico Dunant;
+0;Via Jacopo Sansovino;Via Jacopo Sansovino;1.0
+1;Vicolo Bianchetti;Vicolo Giuseppe Bianchetti;0.816496580928
+1;Località Furo di Sant'Antonio;Localita' Furo di Sant'Antonino;0.8
+0;Via Giavera del Montello;Via Giavera del Montello;1.0
+1;Via Piemonte;Via Piemonte;1.0
+2;Via Treforni;Via Treforni;
+1;Via A.Voltolin;Via Aldo Voltolin;0.666666666667
+1;Via Ortigara;Via Ortigara;1.0
+0;Via dell'Immacolata;Via dell'Immacolata;1.0
+1;Via Abruzzo;Via Abruzzo;1.0
+1;Via Roma;Via Roma;1.0
+0;Via Mario Fiore;Via Mario Fiore;1.0
+0;Via Sebastiano Caboto;Via Sebastiano Caboto;1.0
+1;Via Marzabotto;Via Marzabotto;1.0
+1;Via Stangade;Via Stangade;1.0
+1;Via Gentilin;Via Antonio Gentilin;0.816496580928
+1;Via Commenda;Via Commenda;1.0
+0;Via Pietro Bertolini;Via Pietro Bertolini;1.0
+0;Via Ugo Foscolo;Via Ugo Foscolo;1.0
+0;Via Don Giacomo Alberione;Via don Giacomo Alberione;1.0
+0;Vicolo Andrea Lucchesi;Vicolo Andrea Lucchesi;1.0
+0;Viale Fratelli Cairoli;Viale Fratelli Cairoli;1.0
+0;Via El Alamein;Via El Alamein;1.0
+0;Via Priorato Sant'Antonio;Via Priorato Sant'Antonio;1.0
+1;Via Cornarotta;Via Cornarotta;1.0
+0;Via Simone da Montona;Via Simone da Montona;1.0
+0;Via Sebastiano Venier;Via Sebastiano Venier;1.0
+0;Via Enselmino da Montebelluna;Via Enselmino da Montebelluna;1.0
+2;Via Livello;Via Livello;
+0;Via Nervesa della Battaglia;Via Nervesa della Battaglia;1.0
+0;Via Buca dell'Olio;Via Buca dell'Olio;1.0
+1;Vicolo Pescatori;Vicolo Pescatori;1.0
+0;Via dell'Isola;Via dell'Isola;1.0
+1;Via Berlese;Via Antonio Berlese;0.816496580928
+0;Via Damiano Chiesa;Via Damiano Chiesa;1.0
+1;Via Rosselli;Via Carlo Rosselli;0.816496580928
+1;Piazza Indipendenza;Piazza Indipendenza;1.0
+0;Via Col di Lana;Via Col di Lana;1.0
+0;Via Enrico Azzi;Via Azzi Enrico;1.0
+0;Via Luigi Pastro;Via Luigi Pastro;1.0
+2b;Strada siora Andriana dal Vescovo;Strada Siora Andriana del Vescovo;0.777777777778
+0;Via Silvio Pellico;Via Silvio Pellico;1.0
+0;Via Ermolao Barbaro;Via Ermolao Barbaro;1.0
+1;Via Schiavonia;Via Schiavonia;1.0
+0;Via Certosa del Montello;Via Certosa del Montello;1.0
+1;Via Sambugole;Via Sambugole;1.0
+0;Via Santa Margherita;Via Santa Margherita;1.0
+0;Via del Guazzo;Via del Guazzo;1.0
+1;Via 55° Fanteria;Via Cinquantacinquesimo Reggimento Fanteria;0.57735026919
+0;Vicolo San Zeno A;Vicolo San Zeno A;1.0
+1;Via Reginato;Via Enrico Reginato;0.816496580928
+2b;Strada San Zeno;Via San Zeno;0.5
+0;Porta San Tomaso;Porta San Tomaso;1.0
+2;Ponte Ottavi;Ponte Ottavio Ottavi;
+1;Via Belloni;Via Ernesto Belloni;0.816496580928
+1;Via Libia;Via Libia;1.0
+2a;Porta Altinia;Porta Altinia;1.0
+1;Via Calabria;Via Calabria;1.0
+0;Galleria della Dogana;Galleria della Dogana;1.0
+0;Vicolo delle Corti;Vicolo delle Corti;1.0
+0;Via Brigata Cadore;Via Brigata Cadore;1.0
+0;Via Diacono Paolo;Via Paolo Diacono;1.0
+0;Via Bernardo Salomoni;Via Bernardo Salomoni;1.0
+1;Via Nazioni Unite;Viale Nazioni Unite;0.666666666667
+1;Via Trevisi;Via Trevisi;1.0
+2b;Strada di Fontane;Via Fontane;0.555555555556
+0;Via Arrigo Boito;Via Arrigo Boito;1.0
+2;Via Cavasin;Strada Cavasin;
+2b;Vicolo Monte Piana;Vicolo Monte Piana C;0.722222222222
+2;Via G. B. Mandruzzato;Via Giovan Battista Mandruzzato;
+1;Via Gorizia;Via Gorizia;1.0
+0;Via Ugo Bassi;Via Ugo Bassi;1.0
+0;Via Luigi Bailo;Via Luigi Bailo;1.0
+2b;Strada Vicinale Corti;Strada vicinale delle Corti;0.55
+0;Via Domenico Capretta;Via Domenico Capretta;1.0
+1;Viale Europa;Viale Europa;1.0
+2;Via Filippin;Via Filippini;
+0;Via dei Campi sportivi;Via dei Campi Sportivi;1.0
+1;Via Eritrea;Via Eritrea;1.0
+0;Piazza dei Signori;Piazza dei Signori;1.0
+0;Viale Terza Armata;Viale Terza Armata;1.0
+1;Via Barberia;Via Barberia;1.0
+0;Via Gabriele da Treviso;Via Gabriele da Treviso;1.0
+2b;Via Paolo Nanni;Via Paolo Nani;0.953333333333
+0;Via Gerardo De Lisa;Via Gerardo De Lisa;1.0
+0;Vicolo San Pelaio B;Vicolo San Pelaio B;1.0
+1;Via Bibano;Via Bibano;1.0
+0;Via Donato Bramante;Via Donato Bramante;1.0
+2a;Strada Comunale di San Vitale;Strada comunale di San Vitale;1.0
+0;Via Ferruccio Capuzzo;Via Ferruccio Capuzzo;1.0
+0;Vicolo Pio La Torre;Vicolo Pio La Torre;1.0
+2;Sent. Loc. La Madonnetta - Sant'Artemio;Sentiero La Madonnetta - Sant'Artemio;
+0;Piazzetta Don Ferdinando Pasin;Piazzetta don Ferdinando Pasin;1.0
+0;Via Tommaso Salsa;Via Tommaso Salsa;1.0
+0;Largo di Porta Altinia;Largo di Porta Altinia;1.0
+0;Via Sant'Andrea;Via Sant'Andrea;1.0
+1;Sent. Case Piavone - Sant'Artemio;Sentiero Case Piavone - Sant'Artemio;0.516397779494
+0;Vicolo San Pancrazio;Vicolo San Pancrazio;1.0
+0;Via dei Comin;Via dei Comin;1.0
+0;Via Fabio Filzi;Via Fabio Filzi;1.0
+1;Borgo Fiume;Borgo Fiume;1.0
+2b;Via Bartolomeo d'Alviano;Viale Bartolomeo d'Alviano;0.866666666667
+2b;Strada di Nogarè;Via Nogarè;0.555555555556
+1;Via Roggia;Via Roggia;1.0
+2a;Via Avogadro Rambaldo degli Azzoni;Via Rambaldo degli Azzoni Avogadro;1.0
+1;Vicolo Broli;Vicolo Broli;1.0
+0;Via Don Lorenzo Milani;Via don Lorenzo Milani;1.0
+1;Vicolo Fossaggera;Vicolo Fossaggera;1.0
+0;Via Generale Giuseppe Vaccari;Via generale Giuseppe Vaccari;1.0
+2b;Piazzetta San Parisio;Corte San Parisio;0.62962962963
+0;Via delle Marie;Via delle Marie;1.0
+0;Via Moriago della Battaglia;Via Moriago della Battaglia;1.0
+0;Strada San Bartolomeo;Strada San Bartolomeo;1.0
+1;Via Piavesella;Via Piavesella;1.0
+2a;Via Sant'Ambrogio di Fiera;Via Sant'Ambrogio di Fiera;1.0
+2;Strada Cornare;Via Cornare;
+2a;Via Giuseppe e Luigi Olivi;Via Giuseppe e Luigi Olivi;0.894427191
+0;Vicolo San Pelaio E;Vicolo San Pelaio E;1.0
+0;Vicolo San Pelaio D;Vicolo San Pelaio D;1.0
+0;Vicolo San Pelaio C;Vicolo San Pelaio C;1.0
+0;Vicolo dei Dall'Oro;Vicolo dei dall'Oro;1.0
+0;Vicolo San Pelaio A;Vicolo San Pelaio A;1.0
+1;Rivale Filodrammatici;Rivale Filodrammatici;1.0
+0;Via dell'Asilo;Via dell'Asilo;1.0
+0;Via Ciardi Guglielmo;Via Guglielmo Ciardi;1.0
+0;Via Ambrogio Spiera;Via Ambrogio Spiera;1.0
+1;Via Lancenigo;Via Lancenigo;1.0
+1;Via Vicenza;Via Vicenza;1.0
+0;Via Enrico Reinhart;Via Enrico Reinhart;1.0
+0;Via Lorenzo Perosi;Via Lorenzo Perosi;1.0
+2b;Via della Madonnetta;Strada della Madonetta;0.616161616162
+0;Via Francesco Manzato;Via Francesco Manzato;1.0
+1;Via Minzoni;Via don Giovanni Minzoni;0.707106781187
+1;Via Timavo;Via Timavo;1.0
+0;Via Vincenzo Maria Coronelli;Via Vincenzo Maria Coronelli;1.0
+0;Via San Nicolò;Via San Nicolò;1.0
+0;Via Benedetto Croce;Via Benedetto Croce;1.0
+2;Strada Cisole;Via Cisole;
+1;Via Apollonio;Via Giovanni Apollonio;0.816496580928
+0;Via Gaetano Salvemini;Via Gaetano Salvemini;1.0
+2b;Vicolo Feltrina;Vicolo Feltrina C;0.722222222222
+2b;Via Brigata Marche;Viale Brigata Marche;0.866666666667
+0;Piazza Sant'Andrea;Piazza Sant'Andrea;1.0
+0;Via Anassilide Aglaia;Via Aglaia Anassilide;1.0
+0;Vicolo Cal di Breda;Vicolo Cal di Breda;1.0
+1;Via Everest;Via Everest;1.0
+0;Stradella Interna A;Stradella Interna A;1.0
+1;Via Emilia;Via Emilia;1.0
+1;Via Postumia;Via Postumia;1.0
+2;Via Cormaino;Via Cornaino;
+0;Piazza della Borsa;Piazza della Borsa;1.0
+1;Via Generale Emanuele dal Prà;Via generale Emanuele del Prà;0.8
+0;Via Sante Dorigo;Via Sante Dorigo;1.0
+0;Via San Vito;Via San Vito;1.0
+1;Via 15 Luglio;Viale Quindici Luglio;0.57735026919
+0;Via Luigi Coletti;Via Luigi Coletti;1.0
+0;Via Luigi Giacomelli;Via Luigi Giacomelli;1.0
+1;Via Capodistria;Via Capodistria;1.0
+2;Via Foiana;Strada Foiana;
+0;Via Ragazzi del 99;Via Ragazzi del '99;1.0
+1;Via N.Springolo;Via Nino Springolo;0.666666666667
+1;Vicolo Spineda;Vicolo Spineda;1.0
+0;Via Giuseppe Corazzin;Via Giuseppe Corazzin;1.0
+0;Via Ferro da Cavallo;Via Ferro da Cavallo;1.0
+0;Via 13 Luglio 1921;Via 13 luglio 1921;1.0
+1;Viale Francia;Viale Francia;1.0
+0;Ponte Santa Margherita;Ponte Santa Margherita;1.0
+0;Via Giovanni Battista Riccioli;Via Giovanni Battista Riccioli;1.0
+2a;Vicolo del Molinetto;Vicolo Molinetto;0.816496580928
+1;Via Castelcucco;Via Castelcucco;1.0
+0;Via del Passo;Via del Passo;1.0
+0;Vicolo Carlo Alberto;Vicolo Carlo Alberto;1.0
+1;Via Adamello;Via Adamello;1.0
+1;Piazza Tommasini;Piazza Tommasini;1.0
+0;Via Castelfranco Veneto;Via Castelfranco Veneto;1.0
+2b;Via San Pelaio;Via San Parisio;0.771428571429
+0;Via Bartolomeo Orioli;Via Bartolomeo Orioli;1.0
+1;Ponte Garibaldi;Ponte Giuseppe Garibaldi;0.816496580928
+2b;Via Graziano Appiani;Viale Graziano Appiani;0.866666666667
+1;Via Bezzecca;Via Bezzecca;1.0
+2;Via Louis Pasteur;Viale Luigi Pasteur;
+0;Via Antonio Zezzos;Via Antonio Zezzos;1.0
+1;Via Amendola;Via Giovanni Amendola;0.816496580928
+1;Via Casoni;Via Casoni;1.0
+1;Via Tolpada;Via Tolpada;1.0
+0;Via Gabriele D'Annunzio;Via Gabriele D'Annunzio;1.0
+0;Via Giovanni Maria Malimpensa;Via Giovanni Maria Malimpensa;1.0
+1;Via A. Beazzano;Via Agostino Beazzano;0.666666666667
+1;Vicolo Avogari;Vicolo Avogari;1.0
+1;Via Ragusa;Via Ragusa;1.0
+1;Via Terraglio;Via Terraglio;1.0
+0;Via Andrea Giacinto Longhin;Via Andrea Giacinto Longhin;1.0
+2b;Vicolo Giuseppe Toniolo;Via Giuseppe Toniolo;0.666666666667
+2a;Via Bolzano;Via Bolzano;1.0
+1;Strada delle Belle Gambe;Via delle Belle Gambe;0.75
+1;Via Gallina;Via Giacinto Gallina;0.816496580928
+0;Viale Brigata Treviso;Viale Brigata Treviso;1.0
+0;Via Giovanni Verga;Via Giovanni Verga;1.0
+0;Vicolo Generale Antonio Cantore;Vicolo generale Antonio Cantore;1.0
+0;Via Famiglia Alberghetti;Via Famiglia Alberghetti;1.0
+0;Via Marco Polo;Via Marco Polo;1.0
+1;Via Orsetti Matovani;Via Domenico Mantovani Orsetti;0.57735026919
+1;Via Panciera;Via Panciera;1.0
+0;Via Dario da Treviso;Via Dario da Treviso;1.0
+2;Via P. Origo;Via Paola Drigo;
+0;Vicolo San Gregorio;Vicolo San Gregorio;1.0
+0;Vicolo Lodovico Fiumicelli;Vicolo Lodovico Fiumicelli;1.0
+2a;Via Mure di San Teonisto;Via Mura San Teonisto;0.632455532034
+2;Via Boberdò;Via Doberdò;
+0;Via Vittorio Alfieri;Via Vittorio Alfieri;1.0
+0;Vicolo Luigi Coletti;Vicolo Luigi Coletti;1.0
+0;Viale Trento e Trieste;Viale Trento e Trieste;1.0
+0;Via Antonio Cavarzerani;Via Antonio Cavarzerani;1.0
+0;Via Gualpertino da Coderta;Via Gualpertino da Coderta;1.0
+0;Via Luigia Codemo;Via Luigia Codemo;1.0
+2b;Via Bernardino Bison;Via Giuseppe Bernardino Bison;0.638888888889
+2b;Strada del Nascimben;Via Nascimben;0.490740740741
+1;Via Mandruzzato;Via Giovan Battista Mandruzzato;0.707106781187
+0;Via San Gervasio;Via San Gervasio;1.0
+0;Via Angelo Garbizza;Via Angelo Garbizza;1.0
+0;Piazza San Leonardo;Piazza San Leonardo;1.0
+0;Via Egidio Forcellini;Via Egidio Forcellini;1.0
+1;Via Cartera;Via Cartera;1.0
+0;Via Gustavo Bampo;Via Gustavo Bampo;1.0
+1;Vicolo Fiume;Vicolo Fiume;1.0
+1;Via Redipuglia;Via Redipuglia;1.0
+0;Via Nelson Mandela;Via Nelson Mandela;1.0
+0;Via Sant'Angelo;Via Sant'Angelo;1.0
+1;Via Podgora;Via Podgora;1.0
+1;Via Toscana;Via Toscana;1.0
+0;Via San Martino;Via San Martino;1.0
+0;Via Vittorio Locchi;Via Vittorio Locchi;1.0
+2b;Via Santa Bona Vecchia;Strada Santa Bona Vecchia;0.765
+1;Via Ferretton;Via Ferdinando Ferretton;0.816496580928
+1;Via Paludetti;Via Paludetti;1.0
+0;Via Granatieri di Sardegna;Via Granatieri di Sardegna;1.0
+2a;Via del Pegorile;Via Pegorile;0.816496580928
+1;Via Canoniche;Via Canoniche;1.0
+0;Via Pier Maria Pennacchi;Via Pier Maria Pennacchi;1.0
+1;Via Boschetto;Via Boschetto;1.0
+2a;Strada vecchia di San Pelaio;Strada vecchia di San Pelaio;1.0
+0;Via dei Da Prata;Via dei Da Prata;1.0
+0;Vicolo della Busta;Vicolo della Busta;1.0
+0;Vicolo Ospedale Provinciale;Vicolo Ospedale Provinciale;1.0
+0;Vicolo delle Absidi;Vicolo delle Absidi;1.0
+0;Via Famiglia Fontebasso;Via Famiglia Fontebasso;1.0
+0;Piazzetta della Torre;Piazzetta della Torre;1.0
+2b;Via Fratelli Bandiera;Viale Fratelli Bandiera;0.866666666667
+0;Via dei Zotti;Via dei Zotti;1.0
+1;Via Ossero;Via Ossero;1.0
+0;Via Albertino da Corona;Via Albertino da Corona;1.0
+0;Via Andrea Lucchesi;Via Andrea Lucchesi;1.0
+2b;Strada dei Tappi-Via Villapendola;Strada dei Tappi;0.911111111111
+2b;Via Bernardino Manin;Via Bernardino Marin;0.893333333333
+0;Vicolo Pietro Paleocapa;Vicolo Pietro Paleocapa;1.0
+1;Via Callisto;Via Callisto Patriarca;0.816496580928
+2b;Via Generale Angelo Mengardo;Via generale Angelo Mengaldo;0.95
+0;Via Pietro Paleocapa;Via Pietro Paleocapa;1.0
+0;Strada del Mozzato;Strada del Mozzato;1.0
+0;Via Ottavio Ottavi;Via Ottavio Ottavi;1.0
+0;Via Santa Barbara;Via Santa Barbara;1.0
+1;Via Inferiore;Via Inferiore;1.0
+1;Via Decorati Al Valor Militare;Via Decorati al Valore Militare;0.8
+1;Via Cortese;Via Francesco Cortese;0.816496580928
+0;Via Don Enrico Cagnin;Via don Enrico Cagnin;1.0
+1;Via Lussemburgo;Via Lussemburgo;1.0
+0;Via dei Picchi;Via dei Picchi;1.0
+0;Via Giovanni Pascoli;Via Giovanni Pascoli;1.0
+1;Via Genova;Via Genova;1.0
+0;Via Pietro Gobetti;Via Pietro Gobetti;1.0
+0;Viale Luigi Luzzatti;Viale Luigi Luzzatti;1.0
+1;Via Catullo;Via Tommaso Catullo;0.816496580928
+1;Via Bastia;Via Bastia;1.0
+0;Via Attilio Lazzari;Via Attilio Lazzari;1.0
+0;Vicolo del Duomo;Vicolo del Duomo;1.0
+0;Ponte San Martino;Ponte San Martino;1.0
+0;Via Carolina Polacco;Via Carolina Polacco;1.0
+1;Via Italo Cappellotto;Via Italico Cappellotto;0.666666666667
+2;Parcheggio Cantarane;Parcheggio Cantarane;
+2b;Via Jacopo Bonfandini;Via Jacopo Bonfadini;0.957777777778
+2;Via G. L. Bernini;Via Gian Lorenzo Bernini;
+0;Via delle Cave;Via delle Cave;1.0
+0;Via Antonio Caccianiga;Via Antonio Caccianiga;1.0
+0;Via Teatro Dolfin;Via Teatro Dolfin;1.0
+0;Viale Fratelli Bandiera;Viale Fratelli Bandiera;1.0
+1;Via Boscardin;Via Santa Bertilla Boscardin;0.707106781187
+0;Via Angelo Zorzetto;Via Angelo Zorzetto;1.0
+0;Via Aleardo Aleardi;Via Aleardo Aleardi;1.0
+2b;Via del Pozzetto;Strada del Pozzetto;0.688888888889
+0;Via Forte Marghera;Via Forte Marghera;1.0
+1;via Beata Giuliana di C.;Via Beata Giuliana di Collalto;0.8
+0;Via Lega Lombarda;Via Lega Lombarda;1.0
+2a;Via San Francesco di Sales;Via San Francesco di Sales;1.0
+0;Via Armando Diaz;Via Armando Diaz;1.0
+2b;Via Lungo Fiume Cerca;Lungofiume Cerca;0.633333333333
+0;Via Generale Augusto Vanzo;Via generale Augusto Vanzo;1.0
+1;Via Lovera;Via Lovera;1.0
+2b;Porta Frà Giocondo;Ponte fra' Giocondo;0.786666666667
+0;Via Nicolò Franco;Via Nicolò Franco;1.0
+1;Galleria Rialto;Galleria Rialto;1.0
+1;Via Liguria;Via Liguria;1.0
+2b;Via Angelo Dalministro;Via Angelo Dalmistro;0.963636363636
+1;Viale Italia;Viale Italia;1.0
+1;Vicolo Piavesella;Vicolo Piavesella;1.0
+0;Via Caduti di Cefalonia;Via Caduti di Cefalonia;1.0
+0;Viale Jacopo Tasso;Viale Jacopo Tasso;1.0
+2;Viale Montegrappa;Viale Monte Grappa;
+1;Via Paris Bordon;Via Paris Bordone;0.666666666667
+0;Via Francesco Baracca;Via Francesco Baracca;1.0
+0;Via Carlo Lasinio;Via Carlo Lasinio;1.0
+2a;Piazza Santa Maria dei Battuti;Piazza Santa Maria dei Battuti;1.0
+1;Viale 24 Maggio;Viale Ventiquattro Maggio;0.666666666667
+1;Via Benini;Via Ferruccio Benini;0.816496580928
+0;Via Amalteo Pomponio;Via Pomponio Amalteo;1.0
+0;Viale Cesare Battisti;Viale Cesare Battisti;1.0
+0;Via Autieri d'Italia;Via Autieri d'Italia;1.0
+0;Via Santa Caterina;Via Santa Caterina;1.0
+2;Via Boiago;Strada di Boiago;
+1;Via Alzaia;Via Alzaia;1.0
+1;Via G. de Zuliani;Via Giulio de Zuliani;0.75
+1;Via Mons. A.Mantiero;Via Antonio Mantiero;0.57735026919
+0;Via Paolo Veronese;Via Paolo Veronese;1.0
+1;Vicolo Rinaldi;Vicolo Rinaldi;1.0
+0;Via delle Absidi;Via delle Absidi;1.0
+0;Via Nicolò Paganini;Via Nicolò Paganini;1.0
+0;Via Monte Piana;Via Monte Piana;1.0
+0;Via Giacomo Zanella;Via Giacomo Zanella;1.0
+0;Piazza San Vito;Piazza San Vito;1.0
+0;Viale Nazioni Unite;Viale Nazioni Unite;1.0
+1;Via Callalta;Via Callalta;1.0
+0;Vicolo Fratelli Bandiera;Vicolo Fratelli Bandiera;1.0
+1;Via Rapisardi;Via Vito Rapisardi;0.816496580928
+2b;Via Barbarano da Treviso;Via Barbano da Treviso;0.955555555556
+0;Via delle Acquette;Via delle Acquette;1.0
+0;Viale Gian Giacomo Felissent;Viale Gian Giacomo Felissent;1.0
+2;Via Granzetta;Strada Granzetta;
+2;Via Principale;Via Principale;
+2a;Via Fornaci Guerra Gregory;Via Fornaci Guerra e Gregorj;0.707106781187
+1;Viale Pindaro;Viale Pindaro;1.0
+1;Via L. Barbo;Via Lodovico Barbo;0.666666666667
+0;Via delle Verine;Via delle Verine;1.0
+1;Vicolo Portico Oscuro;Via Portico Oscuro;0.666666666667
+1;Via Palasciano;Via Ferdinando Palasciano;0.816496580928
+2b;Via Cimitero Monigo;Via Cimitero di Monigo;0.611111111111
+0;Via Padre Massimiliano Kolbe;Via Padre Massimiliano Kolbe;1.0
+0;Via Angelo Ferretto;Via Angelo Ferretto;1.0
+0;Strada alle Capitelle;Strada alle Capitelle;1.0
+2b;Via Aldo Moro;Via Aldo Moro;0.62962962963
+1;Via Cirenaica;Via Cirenaica;1.0
+1;Vicolo Bortolan;Vicolo Bortolan;1.0
+1;Via A.Tronconi;Via Alessandro Tronconi;0.666666666667
+0;Via Fosse Ardeatine;Via Fosse Ardeatine;1.0
+0;Via Angelo Giustinian Recanati;Via Angelo Giustinian Recanati;1.0
+1;Piazza Crispi;Piazza Francesco Crispi;0.816496580928
+2b;Via Luigi Galvani;Via Luigi Galvani;0.662698412698
+0;Via Guido Bergamo;Via Guido Bergamo;1.0
+0;Vicolo Giacomo Zanella;Vicolo Giacomo Zanella;1.0
+0;Via Nicolò Mauro;Via Nicolò Mauro;1.0
+0;Via Livio Zambeccari;Via Livio Zambeccari;1.0
+1;Vicolo Rialto;Vicolo Rialto;1.0
+0;Piazza Giacomo Matteotti;Piazza Giacomo Matteotti;1.0
+0;Via Gustavo Modena;Via Gustavo Modena;1.0
+0;Via Reggimento Italia Libera;Via Reggimento Italia Libera;1.0
+2;Via Bacchina;Via Bacchina;
+1;Vicolo Tezzone;Vicolo Tezzone;1.0
+0;Via Alessandro Manzoni;Via Alessandro Manzoni;1.0
+1;Via K2;Via K2;1.0
+1;Via Castellana;Via Castellana;1.0
+1;Piazza Pola;Piazza Pola;1.0
+0;Via Sant'Osvaldo;Via Sant'Osvaldo;1.0
+1;Via Tofane;Via Tofane;1.0
+0;Via Lungo Sile;Via Lungo Sile;1.0
+0;Via Luigi de Gobbis;Via Luigi de Gobbis;1.0
+1;Via 20 settembre;Via Venti Settembre;0.666666666667
+1;Borgo Savoia;Borgo Savoia;1.0
+1;Via Antoniutti;Via Carlo Antoniutti;0.816496580928
+0;Largo Alcide De Gasperi;Largo Alcide De Gasperi;1.0
+1;Piazza Filodrammatici;Piazza Filodrammatici;1.0
+0;Via Pietro Buratti;Via Pietro Buratti;1.0
+1;Via P. De Coubertin;Via Pierre de Coubertin;0.75
+0;Via Isola di Mezzo;Via Isola di Mezzo;1.0
+1;Via Municipio;Via Municipio;1.0
+0;Vicolo Fontane A;Vicolo Fontane A;1.0
+1;Via Lombardia;Via Lombardia;1.0
+0;Vicolo Fontane B;Vicolo Fontane B;1.0
+1;Vicolo Limbraga;Vicolo Limbraga;1.0
+0;Via Scipione Bagaggia;Via Bagaggia Scipione;1.0
+1;Via Marzolo;Via Paolo Marzolo;0.816496580928
+0;Via Gaspare Ghirlanda;Via Gaspare Ghirlanda;1.0
+2b;Strada del Cimitero;Via Cimitero San Lazzaro;0.60119047619
+2b;Via Giovanni Augurello;Via Giovanni Aurelio Augurello;0.873015873016
+1;Via Cà Sugana;Via Luigi Sugana;0.666666666667
+0;Via Casa di Ricovero;Via Casa di Ricovero;1.0
+2b;Via Sante Casanova;Via Sante Casanova;0.658333333333
+1;Via L. Pagani Cesa;Via Luigi Pagani Cesa;0.75
+2a;Strada Scudetto San Giuseppe;Strada Scudetto di San Giuseppe;0.707106781187
+0;Via Marco Foscarini;Via Marco Foscarini;1.0
+0;Via delle Muneghe;Via delle Muneghe;1.0
+0;Vicolo San Zeno b;Vicolo San Zeno B;1.0
+2b;Aeroporto Sant'Angelo;DELETE;0.518518518519
+0;Vicolo Tommaso Salsa;Vicolo Tommaso Salsa;1.0
+0;Via Ugo Bottacin;Via Ugo Bottacin;1.0
+0;Via Luigi Sartorio;Via Luigi Sartorio;1.0
+0;Via Antonio Santalena;Via Antonio Santalena;1.0
+1;Via Menegazzi;Via Giuseppe Menegazzi;0.816496580928
+1;Vicolo Fonderia;Vicolo Fonderia;1.0
+0;Via Ludovico Seitz;Via Ludovico Seitz;1.0
+2;Via Munara;Via Munara;
+0;Piazza della Vittoria;Piazza della Vittoria;1.0
+1;Via Cantarane;Via Cantarane;1.0
+2a;Via B.Marcello;Via Benedetto Marcello;0.816496580928
+1;Piazza Borsa;Piazza della Borsa;0.816496580928
+1;Vicolo Pola;Vicolo Pola;1.0
+2;Strada Rotonda;Via Rotonda;
+1;Via Gian Battista Scopoli;Via Giovanni Antonio Scopoli;0.75
+0;Vicolo Carlo Cattaneo;Vicolo Carlo Cattaneo;1.0
+0;Via Pozzuolo del Friuli;Via Pozzuolo del Friuli;1.0
+2a;Via Sant'Antonio da Padova;Viale Sant'Antonio da Padova;0.632455532034
+0;Viale Nino Bixio;Viale Nino Bixio;1.0
+0;Via Ilario Rigo;Via Ilario Rigo;1.0
+0;Via Rosalba Carriera;Via Rosalba Carriera;1.0
+0;Via Gaia da Camino;Via Gaia da Camino;1.0
+0;Via Passo Buole;Via Passo Buole;1.0
+2;Via Fiume;Via Fiume;
+2;Accesso Ed.22;Accesso Edificio 22;
+0;Vicolo della Torre;Vicolo della Torre;1.0
+1;Via Po;Via Po;1.0
+1;Via Lazio;Via Lazio;1.0
+1;Largo Totila;Largo Totila;1.0
+1;Via Danimarca;Via Danimarca;1.0
+1;Via Loschi;Via Domenico Loschi;0.816496580928
+2;Via L.L. Bernaldel;Via Luigi e Lucia Bernardel;
+1;Via Bianchetti;Via Giuseppe Bianchetti;0.816496580928
+1;Viale Olimpia;Viale Olimpia;1.0
+1;Via Calmaggiore;Via Calmaggiore;1.0
+0;Via Giacomo Puccini;Via Giacomo Puccini;1.0
+0;Via Angelo Emo;Via Angelo Emo;1.0
+1;Viale Lancieri di Novara;Via Lancieri di Novara;0.75
+0;Via San Michele;Via San Michele;1.0
+0;Via Leonardo da Vinci;Via Leonardo da Vinci;1.0
+2b;Via Giovan Battista Cervellini;Via Giovanni Battista Cervellini;0.95
+0;Via Sant'Elena Imperatrice;Via Sant'Elena Imperatrice;1.0
+2;Strada Antiga;Via Antiga;
+0;Via Francesco Morosini;Via Francesco Morosini;1.0
+0;Via dell'Olmo;Via dell'Olmo;1.0
+0;Via Nazario Sauro;Via Nazario Sauro;1.0
+1;Via Germania;Via Germania;1.0
+2a;Via Augusto e Luigi Serena;Via Augusto e Luigi Serena;0.894427191
+0;Via Giulio Ettore Erler;Via Giulio Ettore Erler;1.0
+1;Via Gelsomini;Via Gelsomini;1.0
+1;Via G.Torretti;Via Giuseppe Torretti;0.666666666667
+0;Via dello Squero;Via dello Squero;1.0
+1;Via Bagattino;Via Bagattino;1.0
+0;Via Giuseppe Toniolo;Via Giuseppe Toniolo;1.0
+0;Viale Vittorio Veneto;Viale Vittorio Veneto;1.0
+1;Via Gradenigo;Via Giuseppe Gradenigo;0.816496580928
+0;Via Cima da Conegliano;Via Cima da Conegliano;1.0
+1;Via Grimaldi Prati;Via Margherita Grimaldi Prati;0.866025403784
+2b;Via Alessandro Ninni;Via Alessandro Pericle Ninni;0.67619047619
+0;Via Ippolito Nievo;Via Ippolito Nievo;1.0
+1;Via Oslavia;Via Oslavia;1.0
+0;Galleria della strada romana;Galleria della Strada Romana;1.0
+2b;Via Generale Pennella;Via generale Giuseppe Pennella;0.583333333333
+1;Via Bressa;Via Bressa;1.0
+0;Via Paolo Aproino;Via Paolo Aproino;1.0
+1;Via Sicilia;Via Sicilia;1.0
+0;Via Alberto Franchetti;Via Alberto Franchetti;1.0
+0;Via Marco Pellicciaio;Via Marco Pellicciaio;1.0
+0;Via Enrico Dandolo;Via Enrico Dandolo;1.0
+0;Piazza Donatori di Sangue;Piazza Donatori di Sangue;1.0
+2a;Via Cadore;Via Cadore;1.0
+1;Via Gandino;Via Marcantonio Gandino;0.816496580928
+0;Via Giovanni Maggiotto;Via Giovanni Maggiotto;1.0
+0;Via Sant'Agostino;Via Sant'Agostino;1.0
+2;Via Castagnole;Strada Castagnole;
+0;Via Carlo Alberto;Via Carlo Alberto;1.0
+0;Via Castellano di Salomone;Via Castellano di Salomone;1.0
+1;Via Alceste Torcelli;Via Alceste Torselli;0.666666666667
+1;Via Fuin;Via Fuin;1.0
+0;Via Paolo Sarpi;Via Paolo Sarpi;1.0
+1;Via Campana;Via Campana;1.0
+1;Via Feruglio;Via Manlio Feruglio;0.816496580928
+0;Via Giovanna d'Arco;Via Giovanna d'Arco;1.0
+1;Via Esuli Dalmati;Via Esuli Giuliano Dalmati;0.866025403784
+0;Ponte Alcide De Gasperi;Ponte Alcide De Gasperi;1.0
+2;Viale Maserada;Viale Maserada;
+0;Piazza Martiri di Belfiore;Piazza Martiri di Belfiore;1.0
+2a;Via Pescheria;Via Pescheria;1.0
+1;Via Tandura;Via Alessandro e Luigino Tandura;0.632455532034
+0;Via girolamo Li Causi;Via Girolamo Li Causi;1.0
+0;Viale Luigi Cadorna;Viale Luigi Cadorna;1.0
+2a;Viale dei Cacciatori;Viale Cacciatori;0.816496580928
+0;Via San Leonardo;Via San Leonardo;1.0
+1;Via Selo;Via Selo;1.0
+1;Via Matovani Orsetti;Via Domenico Mantovani Orsetti;0.57735026919
+0;Via Rinaldo Carniello;Via Rinaldo Carniello;1.0
+0;Via Monte Cengio;Via Monte Cengio;1.0
+1;Viale Monfenera;Viale Monfenera;1.0
+2b;Vicolo Paludetti;Vicolo Paludetti C;0.722222222222
+1;Via Altino;Via Altino;1.0
+0;Via Gino Rossi;Via Gino Rossi;1.0
+0;Via Carlo Cattaneo;Via Carlo Cattaneo;1.0
+0;Via Carlo Goldoni;Via Carlo Goldoni;1.0
+2b;Via Santa Bona Nuova;Strada Santa Bona Nuova;0.765
+0;Via Amilcare Ponchielli;Via Amilcare Ponchielli;1.0
+1;Vicolo Calmaggiore;Vicolo Calmaggiore;1.0
+0;Piazzale Duca d'Aosta;Piazzale Duca d'Aosta;1.0
+0;Via Cesare Pavese;Via Cesare Pavese;1.0
+0;Via Riccardo Selvatico;Via Riccardo Selvatico;1.0
+1;Riva del Cagnan Giovanni Comisso;Riva del Cagnan Giovanni Comisso;1.0
+1;Via Adige;Via Adige;1.0
+2b;Vicolo Montello;Vicolo Montello B;0.0
+0;Vicolo Eugenio Rota;Vicolo Eugenio Rota;1.0
+1;Via G. Liberali;Via monsignor Giuseppe Liberali;0.57735026919
+2b;Strada della Polveriera;Via Polveriera;0.672222222222
+1;Via G. Vasari;Via Giorgio Vasari;0.666666666667
+0;Galleria Daniele Manin;Galleria Daniele Manin;1.0
+0;Via Umberto Cosmo;Via Umberto Cosmo;1.0
+2a;Via Alzaia sul Sile;Via Alzaia;0.707106781187
+1;Via Torcello;Via Torcello;1.0
+0;Via Andrea Vendramin;Via Andrea Vendramin;1.0
+0;Via dell'Ansa;Via dell'Ansa;1.0
+1;Via G. Zompini;Via Gaetano Zompini;0.666666666667
+0;Via Ruggero Leoncavallo;Via Ruggero Leoncavallo;1.0
+0;Via Gaspara Stampa;Via Gaspara Stampa;1.0
+0;Via Monte Nero;Via Monte Nero;1.0
+1;Via Hermada;Via Hermada;1.0
+0;Via San Pancrazio;Via San Pancrazio;1.0
+2b;Via Giulio Graziano;Via Giulio Cornelio Graziano;0.625
+0;Via Pier Adolfo Tirindelli;Via Pier Adolfo Tirindelli;1.0
+0;Via Antonio Borin;Via Antonio Borin;1.0
+2b;Via Domenico Federici;Via Domenico Maria Federici;0.55
+2a;Via Montebelluna;Via Montebelluna;1.0
+1;Vicolo 24 Maggio;Vicolo Ventiquattro Maggio;0.666666666667
+0;Vicolo Montello A;Vicolo Montello A;1.0
+2b;Via Giovanni Battista Canal;Via Gian Battista Canal;0.866666666667
+0;Via Battaglione Feltre;Via Battaglione Feltre;1.0
+0;Vicolo Montello B;Vicolo Montello B;1.0
+0;Via Marco Pulieri;Via Marco Pulieri;1.0
+0;Vicolo del Pozzetto;Vicolo del Pozzetto;1.0
+0;Via Paolo Nani;Via Paolo Nani;1.0
+1;Vicolo Rovero;Vicolo di Rovero;0.816496580928
+0;Via Sante Cancian;Via Sante Cancian;1.0
+0;Calle del Podestà;Calle del Podestà;1.0
+0;Via Monte Lungo;Via Monte Lungo;1.0
+2a;Via Giacomo Camillo De Carlo;Via Giacomo Camillo de Carlo;1.0
+0;Via Ercole Smaniotto;Via Ercole Smaniotto;1.0
+1;Via Giorgione;Via Giorgione;1.0
+0;Via Emilio Zanette;Via Emilio Zanette;1.0
+1;Vicolo Buranelli;Vicolo Buranelli;1.0
+1;Piazza Rinaldi;Piazza Rinaldi;1.0
+0;Via 14 Maggio 1944;Via 14 Maggio 1944;1.0
+0;Via San Parisio;Via San Parisio;1.0
+0;Via Giulio Trento;Via Giulio Trento;1.0
+2;Strada Cartieretta;Via Cartieretta;
+0;Piazza San Francesco;Piazza San Francesco;1.0
+0;Via Vittorio Bragadin;Via Vittorio Bragadin;1.0
+2a;Via Asolo;Via Asolo;1.0
+1;Via Orsenigo;Via Orsenigo;1.0
+2b;Via Rosa Bortolani;Via Rosa Bortolan;0.977777777778
+0;Via Luigi Ellero;Via Luigi Ellero;1.0
+0;Via fratelli Benvenuto;Via Fratelli Benvenuto;1.0
+0;Via Lorenzo Celsi;Via Lorenzo Celsi;1.0
+0;Vicolo Francesco Baracca;Vicolo Francesco Baracca;1.0
+1;Via Brenta;Via Brenta;1.0
+0;Via San Trovaso;Via San Trovaso;1.0
+2a;Via Ospedale;Via Ospedale;1.0
+2a;Via G.Negri;Via Guido Negri;0.816496580928
+0;Via Sovernigo Porcellengo;Via Sovernigo Porcellengo;1.0
+2;Via Aereoporto;Strada dell'Aeroporto;
+0;Via Carlo Stuparich;Via Carlo Stuparich;1.0
+0;Via Mercato Ortofrutticolo;Via Mercato Ortofrutticolo;1.0
+0;Via Wladimiro Paoli;Via Wladimiro Paoli;1.0
+2;Accesso Ed.10;Accesso Edificio 10;
+0;Piazzetta dei Lombardi;Piazzetta dei Lombardi;1.0
+1;Via Aquileia;Via Aquileia;1.0
+1;Via Sambughè;Via Sambughè;1.0
+2a;Via Monsignor Angelo Marchesan;Via Angelo Marchesan;0.866025403784
+0;Viale Ippolito Pindemonte;Viale Ippolito Pindemonte;1.0
+1;Via Ortazzo;Via Ortazzo;1.0
+1;Vicolo Caposile;Vicolo Caposile;1.0
+0;Sottoportico Teatro Dolfin;Sottoportico Teatro Dolfin;1.0
+2b;Via Niccolò de Rossi;Via Nicolò de Rossi;0.970833333333
+1;Via Teodorico e Teodolfo Tessari;Via Teodorico e Teodolfo Tessari;1.0
+0;Vicolo Antonio Zezzos;Vicolo Antonio Zezzos;1.0
+0;Via Niccolò Tommaseo;Via Niccolò Tommaseo;1.0
+1;Via Bonifacio;Via Giovanni Bonifacio;0.816496580928
+0;Via Pietro Mascagni;Via Pietro Mascagni;1.0
+1;Vicolo Roggia;Vicolo Roggia;1.0
+0;Vicolo Sant'Antonino B;Vicolo Sant'Antonino B;1.0
+0;Via Francesco Colonna;Via Francesco Colonna;1.0
+1;Via Stretta;Via Stretta;1.0
+0;Vicolo Granatieri di Sardegna;Vicolo Granatieri di Sardegna;1.0
+1;Vicolo Dotti;Vicolo Dotti;1.0
+0;Via Bartolomeo Zuccato;Via Bartolomeo Zuccato;1.0
+0;Vicolo Gaspare Gozzi;Vicolo Gaspare Gozzi;1.0
+2a;Via Fornaci;Via Fornaci;1.0
+1;Vicolo Piave;Vicolo Piave;1.0
+0;Varco Santa Margherita;Varco Santa Margherita;1.0
+0;Via Giovanni Pinadello;Via Giovanni Pinadello;1.0
+0;Via Antonio Carlini;Via Antonio Carlini;1.0
+0;Via Marco Pensaben;Via Marco Pensaben;1.0
+0;Largo Umanesimo Latino;Largo Umanesimo Latino;1.0
+1;Via la Bassa;Strada la Bassa;0.666666666667
+0;Via Antonio Zanchi;Via Antonio Zanchi;1.0
+0;Ponte delle Scorzerie;Ponte delle Scorzerie;1.0
+0;Vicolo Nervesa della Battaglia;Vicolo Nervesa della Battaglia;1.0
+1;Borgo Mazzini;Borgo Giuseppe Mazzini;0.816496580928
+0;Piazza delle Istituzioni;Piazza delle Istituzioni;1.0
+0;Via Leon Battista Alberti;Via Leon Battista Alberti;1.0
+1;Piazzale Ospedale;Piazzale Ospedale;1.0
+2b;Via Giovanni Battista Tiepolo;Via Giambattista Tiepolo;0.763888888889
+1;Vicolo Pescheria;Vicolo Pescheria;1.0
+0;Via Carlo Agnoletti;Via Carlo Agnoletti;1.0
